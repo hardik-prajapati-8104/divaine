@@ -1,0 +1,56 @@
+/* Contact page: office cards (Dubai + Hong Kong) */
+.contact__info-list-three {
+  gap: 12px;
+}
+.contact__info-list-three .contact__info-item-three {
+  padding: 16px 18px;
+  border: 1px solid transparent;
+  border-left: 3px solid transparent;
+  border-radius: 10px;
+  transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+.contact__info-list-three .contact__office {
+  gap: 15px;
+  border-color: var(--divider-color, #e8e8e8);
+  background: var(--tg-color-white-default, #fff);
+}
+.contact__info-list-three .contact__office.is-active {
+  background: var(--tg-color-gray-2, #f5f6f7);
+  border-left-color: var(--tg-theme-primary);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+.contact__office .content .title {
+  line-height: 1.5;
+  margin-bottom: 8px;
+}
+.contact__office .content > span {
+  color: var(--tg-theme-primary);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 8px;
+}
+.office__map-link {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--tg-theme-primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.office__map-link:hover {
+  color: var(--tg-theme-secondary);
+}
+.contact__office.is-active .office__map-link {
+  pointer-events: none;
+  text-decoration: none;
+  opacity: 0.7;
+}
+.contact__office.is-active .office__map-link::after {
+  content: " \2713";
+}
+@media (max-width: 575.98px) {
+  .contact__info-list-three .contact__info-item-three {
+    padding: 14px;
+  }
+}

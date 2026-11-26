@@ -1,0 +1,726 @@
+{
+    "settings": {
+        "phone": "+971 552783479",
+        "phone_href": "+971552783479",
+        "contact_url": "contact.php",
+        "breadcrumb_image": "assets/img/bg/breadcrumb_bg.jpg",
+        "sidebar_image": "assets/img/bg/sidebar_bg.jpg",
+        "cta_image": "assets/img/slider/slider_bg02.jpg",
+        "brochure": {
+            "file": "assets/img/project/project_img10.jpg",
+            "links": [
+                {
+                    "label": "PDF. Download",
+                    "file": "assets/img/project/project_img10.jpg"
+                },
+                {
+                    "label": "Company Details",
+                    "file": "assets/img/project/project_img10.jpg"
+                }
+            ]
+        }
+    },
+
+    "listing": {
+        "title": "Our Services",
+        "sub_title": "Our Expertise",
+        "heading": "Technology Solutions That Move Your Business Forward",
+        "read_more": "Read More"
+    },
+
+    "cta": {
+        "title": "Empowering IT Businesses One Step at a Time",
+        "text": "Partner with a team that turns technology into measurable business results. Tell us about your goals and we will take it from there.",
+        "button": "Make An Appointment"
+    },
+
+    "services": [
+        {
+            "slug": "it-consulting-strategy",
+            "title": "IT Consulting & Strategy",
+            "summary": "Strategic technology consulting to help businesses make smarter IT decisions, optimize operations, and build scalable digital roadmaps.",
+            "icon_class": "flaticon-it-service",
+            "image": "assets/img/blog/blog_img01.jpg",
+            "headline": "Transform Your Business with Smarter IT Strategies",
+            "lead": "We help businesses turn technology into a strategic advantage through expert IT consulting, intelligent planning, and future-ready digital transformation strategies.",
+            "description": "Our IT consulting services help organizations make informed technology decisions, optimize existing infrastructure, and align IT investments with business objectives. From technology assessments and infrastructure planning to digital transformation and IT governance, we develop practical strategies that improve operational efficiency, minimize risks, and support sustainable business growth.",
+            "features": [
+                "IT Infrastructure Assessment & Technology Audit",
+                "Digital Transformation & IT Roadmap Development",
+                "Technology Consulting & Strategic Planning",
+                "IT Budget Optimization & Cost Management",
+                "Software, Platform & Vendor Selection",
+                "IT Security, Risk Assessment & Governance"
+            ],
+            "benefits_title": "Strategic IT Solutions That Drive Business Performance",
+            "benefits_text": "Gain the clarity, confidence, and technical direction needed to make better technology investments and build a more efficient, secure, and scalable business.",
+            "benefits_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                    "icon_class": "flaticon-profit-margin",
+                    "title": "Technology Assessment & Planning",
+                    "text": "Understand your existing IT environment, identify operational gaps, and discover opportunities for improvement."
+                },
+                {
+                    "icon_class": "flaticon-test",
+                    "title": "Strategic Roadmap & Governance",
+                    "text": "Build a structured technology roadmap with clear priorities, implementation milestones, and measurable outcomes."
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What does your IT Consulting & Strategy service include?",
+                    "answer": "Our service covers IT infrastructure assessments, technology audits, digital transformation planning, IT strategy development, software and vendor selection, budget optimization, and technology risk management."
+                },
+                {
+                    "question": "How can IT consulting benefit my business?",
+                    "answer": "IT consulting helps you make better technology decisions, improve operational efficiency, reduce unnecessary expenses, strengthen security, and ensure your technology investments support your business objectives."
+                },
+                {
+                    "question": "Do you work with startups and established businesses?",
+                    "answer": "Yes. We work with startups, small and medium-sized enterprises, and established organizations. Our recommendations are tailored to your business size, operational requirements, available resources, and growth objectives."
+                },
+                {
+                    "question": "Can you help us plan a complete digital transformation?",
+                    "answer": "Absolutely. We assess your existing systems and business processes, identify opportunities for digital improvement, and develop a practical transformation roadmap covering technology adoption, automation, infrastructure, and implementation priorities."
+                },
+                {
+                    "question": "Do you recommend software and technology vendors?",
+                    "answer": "Yes. We evaluate available platforms, software solutions, technology providers, and infrastructure options based on your requirements, scalability, security, integration capabilities, and budget."
+                },
+                {
+                    "question": "How long does an IT consulting project take?",
+                    "answer": "Project duration depends on your business requirements and the complexity of your existing technology environment. Following an initial consultation, we define the scope, deliverables, timelines, and key milestones."
+                },
+                {
+                    "question": "Do you provide ongoing IT consulting and support?",
+                    "answer": "Yes. We can provide ongoing strategic guidance, technology reviews, infrastructure recommendations, and continuous improvement support as your business evolves."
+                },
+                {
+                    "question": "How can we get started?",
+                    "answer": "Contact our team to arrange an initial consultation. We will understand your business objectives, discuss your technology challenges, and recommend a suitable IT strategy for your organization."
+                }
+            ]
+        },
+
+        {
+            "slug": "data-analytics-services",
+            "title": "Data & Analytics Services",
+            "summary": "Turn data into actionable insights with intelligent analytics that drive smarter decisions, business growth, and improved performance.",
+            "icon_class": "flaticon-data-access",
+            "image": "assets/img/blog/blog_img02.jpg",
+            "headline": "Turn Business Data Into Powerful Decisions",
+            "lead": "We transform complex business data into meaningful insights through advanced analytics, intelligent reporting, and data-driven solutions that help organizations make smarter decisions and achieve measurable growth.",
+            "description": "Our Data & Analytics services help businesses unlock the full potential of their data. We collect, organize, analyze, and visualize information from multiple sources to provide a clearer understanding of business performance, customer behavior, and operational trends. From business intelligence dashboards and data integration to predictive analytics and reporting automation, we deliver scalable solutions that turn information into actionable business intelligence.",
+            "features": [
+                "Business Intelligence & Interactive Dashboards",
+                "Data Collection, Integration & Management",
+                "Advanced Data Analytics & Visualization",
+                "Predictive Analytics & Business Forecasting",
+                "Automated Reporting & Performance Monitoring",
+                "Data Quality, Governance & Optimization"
+            ],
+            "benefits_title": "Make Better Decisions With Data-Driven Intelligence",
+            "benefits_text": "Discover valuable business insights, improve operational visibility, and identify new growth opportunities with reliable analytics and intelligent reporting solutions.",
+            "benefits_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                    "icon_class": "flaticon-profit-margin",
+                    "title": "Business Intelligence & Insights",
+                    "text": "Transform complex business information into meaningful insights that support confident and informed decisions."
+                },
+                {
+                    "icon_class": "flaticon-test",
+                    "title": "Advanced Analytics & Forecasting",
+                    "text": "Identify emerging trends, understand data patterns, and anticipate future business opportunities."
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What do your Data & Analytics services include?",
+                    "answer": "Our services include data collection, data integration, business intelligence, interactive dashboards, data visualization, predictive analytics, automated reporting, and data management."
+                },
+                {
+                    "question": "How can data analytics improve my business?",
+                    "answer": "Data analytics helps businesses understand performance, identify operational inefficiencies, recognize customer behavior patterns, discover growth opportunities, and make informed strategic decisions."
+                },
+                {
+                    "question": "Can you create customized business intelligence dashboards?",
+                    "answer": "Yes. We develop customized dashboards that bring your important business metrics together in one place, allowing management teams to monitor performance and make decisions using relevant information."
+                },
+                {
+                    "question": "Can you integrate data from multiple business systems?",
+                    "answer": "Yes. We help integrate data from different applications, databases, platforms, and business systems to create a more connected and consistent data environment."
+                },
+                {
+                    "question": "Do you provide automated reporting solutions?",
+                    "answer": "Yes. We can automate recurring reports and performance monitoring processes, reducing manual work and helping your team access timely business information."
+                },
+                {
+                    "question": "Do you offer predictive analytics and forecasting?",
+                    "answer": "Yes. Depending on data availability and project requirements, we can apply analytical techniques to identify trends, evaluate historical patterns, and support business forecasting."
+                },
+                {
+                    "question": "Is your service suitable for small businesses and enterprises?",
+                    "answer": "Absolutely. Our solutions are designed around your organization's size, data requirements, operational complexity, and business objectives, making them suitable for startups, SMEs, and established enterprises."
+                },
+                {
+                    "question": "How can we get started?",
+                    "answer": "Contact our team to discuss your data challenges and business goals. We will assess your requirements and recommend a suitable analytics and business intelligence solution."
+                }
+            ]
+        },
+
+        {
+            "slug": "cybersecurity-solutions",
+            "title": "Cybersecurity Solutions",
+            "summary": "Protect your digital assets with security-focused solutions, vulnerability assessments, and proactive risk management.",
+            "icon_class": "flaticon-internet-security",
+            "image": "assets/img/blog/blog_img03.jpg",
+            "headline": "Protect Your Digital World With Smarter Cybersecurity",
+            "lead": "We help businesses stay ahead of evolving cyber threats with proactive security strategies, advanced protection solutions, and reliable risk management that safeguard critical systems, sensitive information, and digital operations.",
+            "description": "Our Cybersecurity Solutions are designed to protect your business from digital threats, unauthorized access, data breaches, and security vulnerabilities. We assess your existing IT environment, identify potential risks, and implement practical security measures to strengthen your digital infrastructure. From network security and vulnerability assessments to data protection, security monitoring, and incident response planning, we help organizations build a resilient security environment that supports safe and uninterrupted business operations.",
+            "features": [
+                "Cybersecurity Assessment & Vulnerability Testing",
+                "Network & Infrastructure Security",
+                "Data Protection & Encryption Strategies",
+                "Threat Detection & Security Monitoring",
+                "Security Audits & Risk Management",
+                "Incident Response & Recovery Planning"
+            ],
+            "benefits_title": "Comprehensive Protection for a More Secure Digital Future",
+            "benefits_text": "Strengthen your security posture, protect valuable business information, and minimize digital risks with proactive cybersecurity solutions designed around your business needs.",
+            "benefits_image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                    "icon_class": "flaticon-cyber-security",
+                    "title": "Advanced Threat Protection",
+                    "text": "Identify potential cyber threats and strengthen your defenses against malicious activities and unauthorized access."
+                },
+                {
+                    "icon_class": "flaticon-test",
+                    "title": "Risk Assessment & Prevention",
+                    "text": "Discover security weaknesses and implement preventive measures before they develop into critical business risks."
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What do your Cybersecurity Solutions include?",
+                    "answer": "Our cybersecurity services include security assessments, vulnerability testing, network protection, data security, threat monitoring, security audits, risk management, and incident response planning."
+                },
+                {
+                    "question": "How can cybersecurity protect my business?",
+                    "answer": "Cybersecurity helps protect your business systems, confidential information, digital assets, and customer data against unauthorized access, malware, ransomware, phishing, and other cyber threats."
+                },
+                {
+                    "question": "Do you provide cybersecurity assessments?",
+                    "answer": "Yes. We assess your existing IT infrastructure, identify potential vulnerabilities, review security controls, and provide practical recommendations to strengthen your organization's security posture."
+                },
+                {
+                    "question": "Can you help protect our business from ransomware and malware?",
+                    "answer": "Yes. We can recommend and implement appropriate security measures, including endpoint protection, access controls, security monitoring, backup strategies, and preventive security practices to reduce exposure to malware and ransomware threats."
+                },
+                {
+                    "question": "Do you provide network and infrastructure security?",
+                    "answer": "Yes. We help strengthen network and IT infrastructure security through access management, firewall recommendations, network security assessments, secure configurations, and infrastructure protection strategies."
+                },
+                {
+                    "question": "Can you help with data protection and privacy?",
+                    "answer": "Yes. We help organizations implement suitable data protection practices, access restrictions, encryption strategies, backup policies, and security controls to safeguard sensitive business information."
+                },
+                {
+                    "question": "Do you provide ongoing security monitoring?",
+                    "answer": "We can provide ongoing security guidance and monitoring solutions based on your requirements, helping identify suspicious activities and improve your organization's ability to respond to emerging threats."
+                },
+                {
+                    "question": "Is cybersecurity important for small businesses?",
+                    "answer": "Absolutely. Businesses of every size can face cyber threats. Appropriate security measures help small businesses protect customer information, financial records, internal systems, and day-to-day operations."
+                },
+                {
+                    "question": "Can you help us prepare for cybersecurity incidents?",
+                    "answer": "Yes. We help businesses develop incident response and recovery strategies, define response procedures, and establish practical measures to minimize disruption and support business continuity."
+                },
+                {
+                    "question": "How can we get started?",
+                    "answer": "Contact our team to discuss your cybersecurity requirements. We will understand your existing IT environment, identify your security priorities, and recommend an appropriate protection strategy."
+                }
+            ]
+        },
+
+        {
+            "slug": "mobile-app-development",
+            "title": "Mobile App Development",
+            "summary": "Build engaging Android and iOS applications with intuitive interfaces, seamless functionality, and reliable performance.",
+            "icon_svg": "<rect x=\"6\" y=\"2\" width=\"12\" height=\"20\" rx=\"2\"/><path d=\"M10 5h4\"/><path d=\"M11 18h2\"/><path d=\"m9 10 2 2 4-4\"/>",
+            "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1600&q=85",
+            "headline": "Build Powerful Mobile Experiences That Move Your Business Forward",
+            "lead": "We create innovative, high-performance mobile applications that connect businesses with their customers, simplify everyday operations, and unlock new opportunities through seamless digital experiences.",
+            "description": "Our Mobile App Development services help businesses turn ideas into reliable, feature-rich mobile applications. We combine modern technologies, intuitive user experiences, and scalable architecture to develop applications that meet your unique business requirements. From concept development and UI/UX design to Android and iOS development, API integration, testing, and deployment, we deliver mobile solutions designed for performance, usability, and long-term growth.",
+            "features": [
+                "Custom Android & iOS Application Development",
+                "Cross-Platform App Development",
+                "Mobile UI/UX Design & Prototyping",
+                "App Testing, Optimization & Deployment",
+                "Mobile App Maintenance & Support",
+                "API & Third-Party Service Integration"
+            ],
+            "benefits_title": "Mobile Solutions Designed for Performance and Growth",
+            "benefits_text": "Deliver seamless mobile experiences, improve customer engagement, and expand your digital capabilities with secure, scalable, and business-focused mobile applications.",
+            "benefits_image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                    "icon_class": "flaticon-cyber-security",
+                    "title": "Performance & Security",
+                    "text": "Deliver responsive applications with reliable performance, secure data handling, and appropriate security practices."
+                },
+                {
+                    "icon_class": "flaticon-profit-margin",
+                    "title": "End-to-End App Development",
+                    "text": "Manage every stage of development, from initial concept and design to deployment, maintenance, and continuous improvements."
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What does your Mobile App Development service include?",
+                    "answer": "Our services cover mobile application planning, UI/UX design, Android and iOS development, cross-platform development, API integration, testing, deployment, and ongoing maintenance."
+                },
+                {
+                    "question": "Do you develop applications for both Android and iOS?",
+                    "answer": "Yes. We develop applications for Android and iOS platforms using suitable native or cross-platform technologies based on your project requirements, budget, and business objectives."
+                },
+                {
+                    "question": "Can you develop a custom mobile application for my business idea?",
+                    "answer": "Absolutely. We work with startups, small businesses, and established organizations to transform their ideas into customized mobile applications with features and functionality aligned with their specific requirements."
+                },
+                {
+                    "question": "Do you provide cross-platform app development?",
+                    "answer": "Yes. We can develop cross-platform applications that support multiple mobile operating systems through a shared codebase, helping optimize development time and maintenance efforts."
+                },
+                {
+                    "question": "Can you integrate payment gateways and third-party APIs?",
+                    "answer": "Yes. We integrate suitable payment gateways, maps, authentication systems, notification services, external APIs, and other third-party platforms based on your application requirements."
+                },
+                {
+                    "question": "Will my mobile application be scalable?",
+                    "answer": "We design applications with scalability in mind, considering application architecture, backend infrastructure, database design, and future feature requirements to support business growth."
+                },
+                {
+                    "question": "Do you assist with publishing applications on app stores?",
+                    "answer": "Yes. We assist with application preparation, testing, store listing requirements, and deployment to Google Play and Apple App Store, subject to their respective review and approval processes."
+                },
+                {
+                    "question": "Do you provide mobile app maintenance and updates?",
+                    "answer": "Yes. We offer ongoing maintenance, bug fixes, performance improvements, compatibility updates, and feature enhancements to keep your application reliable and up to date."
+                },
+                {
+                    "question": "How long does mobile app development take?",
+                    "answer": "Development timelines depend on application complexity, design requirements, integrations, and functionality. After understanding your project scope, we provide an estimated timeline with development milestones."
+                },
+                {
+                    "question": "How can I get started with my mobile app project?",
+                    "answer": "Contact our team with your application idea and business objectives. We will discuss your requirements, explore suitable technologies, and recommend a practical development approach."
+                }
+            ]
+        },
+
+        {
+            "slug": "web-development",
+            "title": "Web Development",
+            "summary": "We create responsive, high-performance websites and powerful web applications tailored to your business goals and customer needs.",
+            "icon_class": "flaticon-coding",
+             "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=85",
+            "headline": "Build Powerful Mobile Experiences That Move Your Business Forward",
+            "lead": "We create innovative, high-performance mobile applications that connect businesses with their customers, simplify everyday operations, and unlock new opportunities through seamless digital experiences.",
+            "description": "Our Mobile App Development services help businesses turn ideas into reliable, feature-rich mobile applications. We combine modern technologies, intuitive user experiences, and scalable architecture to develop applications that meet your unique business requirements. From concept development and UI/UX design to Android and iOS development, API integration, testing, and deployment, we deliver mobile solutions designed for performance, usability, and long-term growth.",
+            "features": [
+                "Custom Android & iOS Application Development",
+                "Cross-Platform App Development",
+                "Mobile UI/UX Design & Prototyping",
+                "API & Third-Party Service Integration",
+                "App Testing, Optimization & Deployment",
+                "Mobile App Maintenance & Support"
+            ],
+            "benefits_title": "Digital Solutions Built for Performance and Growth",
+            "benefits_text": "Strengthen your online presence, connect with your customers, and streamline business operations with modern web solutions designed for usability, performance, and scalability.",
+            "benefits_image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                    "icon_class": "flaticon-cyber-security",
+                    "title": "Secure & Scalable Development",
+                    "text": "Build reliable digital platforms with appropriate security practices, maintainable code, and flexible architecture."
+                },
+                {
+                    "icon_class": "flaticon-it-service",
+                    "title": "Business-Focused Solutions",
+                    "text": "Create customized websites and applications that support your workflows, customers, and long-term business objectives."
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What does your Web Development service include?",
+                    "answer": "Our services include custom website design, corporate website development, eCommerce development, web application development, responsive interfaces, backend development, API integration, website optimization, and ongoing maintenance."
+                },
+                {
+                    "question": "Can you develop a completely customized website?",
+                    "answer": "Yes. We develop customized websites based on your business objectives, branding, functionality requirements, and target audience rather than relying on a one-size-fits-all approach."
+                },
+                {
+                    "question": "Do you develop eCommerce websites?",
+                    "answer": "Yes. We create eCommerce platforms with product management, shopping carts, secure payment gateway integration, order management, inventory functionality, and customer-focused shopping experiences."
+                },
+                {
+                    "question": "Are your websites mobile-friendly?",
+                    "answer": "Absolutely. We follow responsive design principles to ensure your website adapts smoothly to smartphones, tablets, laptops, and desktop screens."
+                },
+                {
+                    "question": "Which technologies do you use for web development?",
+                    "answer": "We select technologies based on project requirements and scalability needs. Our development capabilities can include HTML, CSS, JavaScript, PHP, Laravel, modern frontend frameworks, databases, and third-party APIs."
+                },
+                {
+                    "question": "Can you develop custom web applications?",
+                    "answer": "Yes. We build customized web applications, business management platforms, customer portals, administrative dashboards, and workflow automation solutions tailored to your operational requirements."
+                },
+                {
+                    "question": "Will my website be optimized for search engines?",
+                    "answer": "We implement SEO-friendly development practices, including clean website structure, responsive layouts, optimized page performance, metadata support, and search engine-friendly URLs. Search rankings also depend on content, competition, and ongoing SEO activities."
+                },
+                {
+                    "question": "Do you provide website hosting and domain assistance?",
+                    "answer": "We can assist with hosting recommendations, domain configuration, server setup, SSL implementation, and website deployment based on your project requirements."
+                },
+                {
+                    "question": "Do you provide website maintenance and technical support?",
+                    "answer": "Yes. We offer ongoing website maintenance, security updates, bug fixes, performance optimization, content updates, and technical support to keep your website running smoothly."
+                },
+                {
+                    "question": "How long does it take to develop a website?",
+                    "answer": "The development timeline depends on the project's complexity, design requirements, functionality, integrations, and content readiness. We establish a project schedule with clear milestones after understanding your requirements."
+                },
+                {
+                    "question": "How can I start my website development project?",
+                    "answer": "Contact our team with your business details and website requirements. We will discuss your objectives, recommend suitable technologies, and prepare a development approach aligned with your goals and budget."
+                }
+            ]
+        },
+
+        {
+            "slug": "ai-automation-solutions",
+            "title": "AI & Automation Solutions",
+            "summary": "Leverage artificial intelligence, intelligent workflows, and business automation to reduce manual tasks and unlock new opportunities.",
+            "icon_class": "flaticon-technology",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=85",
+            "headline": "Transform Your Business With the Power of AI & Automation",
+            "lead": "We help businesses work smarter through intelligent automation and AI-powered solutions that streamline operations, reduce manual effort, enhance productivity, and create better customer experiences.",
+            "description": "Our AI & Automation Solutions help organizations modernize their operations by combining artificial intelligence, intelligent workflows, and advanced automation technologies. We identify repetitive processes, optimize business workflows, and develop customized solutions that improve efficiency and decision-making. From AI-powered chatbots and intelligent virtual assistants to automated business processes, system integrations, and custom AI applications, we help businesses reduce operational complexity and build smarter, more scalable operations.",
+            "features": [
+                "AI-Powered Applications & Custom AI Integration",
+                "Business Process & Workflow Automation",
+                "AI Chatbots & Virtual Assistants",
+                "Intelligent Data Processing & Analysis",
+                "System Integration & Task Automation",
+                "AI Strategy, Consulting & Implementation"
+            ],
+            "benefits_title": "Smarter Operations. Greater Efficiency. Better Results.",
+            "benefits_text": "Unlock the potential of artificial intelligence and automation to simplify complex processes, improve business productivity, and create more efficient digital operations.",
+            "benefits_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                    "icon_class": "flaticon-it-service",
+                    "title": "Enhanced Customer Experiences",
+                    "text": "Deliver faster and more personalized customer interactions through AI-powered assistants, intelligent chatbots, and automated support."
+                },
+                {
+                    "icon_class": "flaticon-cyber-security",
+                    "title": "Scalable Business Operations",
+                    "text": "Build flexible automation systems that adapt to changing business requirements and support long-term organizational growth."
+                }
+            ],
+            "faqs": [
+                {
+                    "question": "What do your AI & Automation Solutions include?",
+                    "answer": "Our services include AI application development, workflow automation, intelligent chatbots, virtual assistants, business process automation, AI integration, data processing, and customized automation solutions."
+                },
+                {
+                    "question": "How can AI and automation benefit my business?",
+                    "answer": "AI and automation can reduce repetitive manual work, improve operational efficiency, streamline workflows, enhance customer interactions, minimize human errors, and help your team focus on more valuable business activities."
+                },
+                {
+                    "question": "Can you automate our existing business processes?",
+                    "answer": "Yes. We assess your existing workflows, identify repetitive and time-consuming activities, and develop customized automation solutions that integrate with your current business systems."
+                },
+                {
+                    "question": "Do you develop custom AI chatbots and virtual assistants?",
+                    "answer": "Yes. We develop intelligent chatbots and virtual assistants that can help answer customer questions, provide business information, support internal teams, and automate routine communication."
+                },
+                {
+                    "question": "Can you integrate AI into our existing website or software?",
+                    "answer": "Absolutely. We can integrate suitable AI capabilities into existing websites, mobile applications, CRM platforms, ERP systems, and other business applications through appropriate APIs and integration technologies."
+                },
+                {
+                    "question": "Do you provide AI-powered data analysis solutions?",
+                    "answer": "Yes. We can implement AI-assisted data processing and analysis solutions to help organizations identify patterns, extract useful insights, understand business trends, and support informed decision-making."
+                },
+                {
+                    "question": "Are your automation solutions suitable for small businesses?",
+                    "answer": "Yes. We design solutions according to your business size, operational needs, and budget. Small businesses can start with targeted workflow automation and gradually expand as their requirements grow."
+                },
+                {
+                    "question": "Can AI automation work with our existing software?",
+                    "answer": "In many cases, yes. We evaluate your existing software, available APIs, integration capabilities, and workflows to determine the most suitable approach for connecting different systems."
+                },
+                {
+                    "question": "How secure are AI-powered business solutions?",
+                    "answer": "Security is an important part of our implementation approach. We consider data access controls, secure integrations, privacy requirements, and appropriate safeguards based on the solution and the sensitivity of your business information."
+                },
+                {
+                    "question": "How long does an AI automation project take?",
+                    "answer": "Project timelines depend on the complexity of the workflows, integrations, data requirements, and AI functionality. After reviewing your requirements, we provide a practical implementation plan with clear milestones."
+                },
+                {
+                    "question": "How can we get started?",
+                    "answer": "Contact our team to discuss your business challenges and automation opportunities. We will understand your requirements, identify suitable AI use cases, and recommend a practical solution aligned with your business objectives."
+                }
+            ]
+        },
+
+        {
+            "slug": "cloud-devops-solutions",
+            "title": "Cloud & DevOps Solutions",
+            "summary": "Accelerate innovation with scalable cloud infrastructure and streamlined DevOps solutions for reliable, secure, and efficient business operations.",
+            "icon_class": "flaticon-server",
+            "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1600&q=85",
+            "headline": "Accelerate Your Business With Powerful Cloud & DevOps Solutions",
+            "lead": "Modernize your IT infrastructure, streamline software delivery, and scale your business with secure, reliable, and efficient cloud and DevOps solutions.",
+            "description": "At Divainetech, we help businesses modernize their technology infrastructure through comprehensive cloud and DevOps services. From cloud migration and infrastructure setup to CI/CD automation, containerization, and continuous monitoring, our solutions are designed to simplify operations and improve development efficiency. We help organizations build flexible, scalable, and resilient environments that support faster deployments, stronger security, and long-term business growth.",
+            "features": [
+                "Cloud infrastructure setup, configuration, and management",
+                "Cloud migration and modernization",
+                "AWS, Microsoft Azure, and Google Cloud solutions",
+                "DevOps consulting and implementation",
+                "CI/CD pipeline design and automation",
+                "Docker containerization and Kubernetes orchestration",
+                "Infrastructure as Code (IaC) and configuration management",
+                "Cloud security, backup, and disaster recovery",
+                "Performance monitoring and infrastructure optimization",
+                "Continuous integration, delivery, and deployment"
+            ],
+            "benefits_title": "Build a Faster, Smarter & More Scalable Technology Infrastructure",
+            "benefits_text": "Our cloud and DevOps solutions help your business reduce infrastructure complexity, accelerate software releases, and maintain reliable digital operations. By combining cloud technologies with automation and modern development practices, we create an environment that supports innovation, operational efficiency, and sustainable growth.",
+            "benefits_image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                    "icon_class": "flaticon-profit-margin",
+                    "title": "Analysis And <br> Planning",
+                    "text": "Assess workloads and design the right architecture."
+                },
+                {
+                    "icon_class": "flaticon-test",
+                    "title": "Testing & Quality <br> Assurance",
+                    "text": "Automated tests and safe, repeatable deployments."
+                }
+            ],
+            "faqs": [
+                {
+                "question": "What are Cloud & DevOps Solutions?",
+                "answer": "Cloud and DevOps solutions combine cloud computing technologies with automation and modern software development practices. They help businesses manage infrastructure efficiently, streamline development workflows, and deliver applications more reliably."
+                },
+                {
+                "question": "Which cloud platforms do you support?",
+                "answer": "We provide solutions for leading cloud platforms, including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), based on your business requirements and existing infrastructure."
+                },
+                {
+                "question": "Can you migrate our existing applications to the cloud?",
+                "answer": "Yes. We help assess your existing infrastructure, plan the migration, move applications and data to suitable cloud environments, and optimize the setup for performance, security, and scalability."
+                },
+                {
+                "question": "What is DevOps and how can it benefit our business?",
+                "answer": "DevOps brings development and IT operations practices together through collaboration and automation. It can help your business accelerate software releases, reduce deployment errors, improve application reliability, and simplify ongoing maintenance."
+                },
+                {
+                "question": "Do you provide ongoing cloud infrastructure support?",
+                "answer": "Yes. We can help with infrastructure monitoring, performance optimization, security improvements, backup planning, troubleshooting, and ongoing cloud environment management."
+                }
+            ]
+        },
+
+        {
+            "slug": "ui-ux-design-branding",
+            "title": "UI/UX Design & Branding",
+            "summary": "Create memorable digital experiences through user-focused interface design, engaging visuals, and consistent brand identities.",
+            "icon_svg": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"3\"/><path d=\"M3 9h18\"/><path d=\"M9 9v12\"/><circle cx=\"6\" cy=\"6\" r=\".5\" fill=\"currentColor\"/><path d=\"m12 14 2 2 4-4\"/>",
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=85",
+            "headline": "Create Meaningful Digital Experiences With Exceptional UI/UX Design & Branding",
+            "lead": "Make a lasting impression with intuitive interfaces, engaging user experiences, and a distinctive brand identity that connects with your audience.",
+            "description": "At Divainetech, we combine creative thinking, user research, and modern design principles to build digital experiences that look exceptional and work effortlessly. Our UI/UX design services focus on understanding user behavior, simplifying navigation, and creating intuitive interfaces across websites, mobile applications, and digital platforms. Alongside digital product design, we develop cohesive brand identities that communicate your business values, strengthen recognition, and create a consistent visual presence across every customer touchpoint.",
+            "features": [
+                "User research and experience analysis",
+                "User journey mapping and information architecture",
+                "Website and mobile app UI/UX design",
+                "Wireframing and interactive prototyping",
+                "Responsive and mobile-first interface design",
+                "Custom logo design and brand identity development",
+                "Brand guidelines, typography, and color systems",
+                "Visual design for digital products and platforms",
+                "Usability testing and design optimization",
+                "Consistent branding across digital touchpoints"
+            ],
+             "benefits_title": "Design Experiences That Connect, Engage & Build Brand Trust",
+            "benefits_text": "Great design goes beyond appearance. It creates meaningful interactions, makes digital products easier to use, and helps customers connect with your brand. Our UI/UX and branding approach combines usability, creativity, and consistency to improve customer experiences, strengthen brand recognition, and support your business growth.",
+            "benefits_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                "icon_class": "flaticon-branding",
+                "title": "Stronger Brand Identity",
+                "text": "Build a recognizable visual identity through consistent logos, colors, typography, and brand guidelines."
+                },
+                {
+                "icon_class": "flaticon-growth",
+                "title": "Better Customer Engagement",
+                "text": "Improve usability and visual communication to create more engaging experiences and stronger customer connections."
+                }
+            ],
+            "faqs": [
+                {
+                "question": "What is UI/UX design?",
+                "answer": "UI (User Interface) design focuses on the visual elements of a digital product, such as layouts, colors, typography, and interactive components. UX (User Experience) design focuses on how users interact with the product, making it intuitive, accessible, and easy to use."
+                },
+                {
+                "question": "What is included in your UI/UX design services?",
+                "answer": "Our UI/UX services can include user research, user journey mapping, wireframing, prototyping, interface design, responsive layouts, usability testing, and design improvements for websites and mobile applications."
+                },
+                {
+                "question": "Do you provide logo design and complete brand identity services?",
+                "answer": "Yes. We help businesses develop cohesive brand identities, including logo concepts, color palettes, typography systems, visual elements, and brand guidelines that maintain consistency across marketing and digital platforms."
+                },
+                {
+                "question": "Can you redesign an existing website or mobile application?",
+                "answer": "Yes. We can review your existing digital product, identify usability and visual design challenges, and create an updated experience with improved navigation, modern interfaces, responsive layouts, and stronger brand consistency."
+                },
+                {
+                "question": "Why is professional UI/UX design important for a business?",
+                "answer": "Professional UI/UX design helps customers navigate your digital products more easily, improves accessibility and usability, strengthens brand perception, and creates a more consistent experience that supports customer engagement."
+                }
+            ]
+        },
+
+        {
+            "slug": "custom-software-development",
+            "title": "Custom Software Development",
+            "summary": "Develop tailored software, enterprise applications, and management systems designed to simplify workflows and improve productivity.",
+            "icon_svg": "<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M8 8l-3 4 3 4\"/><path d=\"m16 8 3 4-3 4\"/><path d=\"m14 7-4 10\"/>",
+            "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=85",
+            "headline": "Turn Your Business Ideas Into Powerful Custom Software Solutions",
+            "lead": "Transform the way your business operates with tailor-made software designed to solve complex challenges, streamline processes, and support sustainable growth.",
+            "description": "At Divainetech, we develop custom software solutions that align with your unique business requirements and operational goals. From enterprise applications and business management systems to workflow automation platforms and specialized web applications, our development approach focuses on functionality, performance, security, and scalability. We work closely with you throughout the development lifecycle, transforming your ideas into reliable digital solutions that improve productivity, simplify operations, and create lasting business value.",
+            "features": [
+                "Custom software planning and requirement analysis",
+                "Tailor-made business application development",
+                "Enterprise software and management systems",
+                "Custom web application development",
+                "Database architecture and development",
+                "API development and third-party integrations",
+                "Workflow automation and process optimization",
+                "Software modernization and system upgrades",
+                "Quality assurance and performance testing",
+                "Ongoing maintenance, support, and enhancements"
+            ],
+            "benefits_title": "Software Built Around Your Business, Not the Other Way Around",
+            "benefits_text": "Every business has different processes, challenges, and ambitions. Our custom software development approach gives you technology that fits the way your organization works. With flexible architecture, tailored functionality, and reliable engineering practices, we help reduce manual work, improve operational efficiency, and build software that can evolve alongside your business.",
+            "benefits_image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [
+                {
+                "icon_class": "flaticon-settings",
+                "title": "Tailored Business Solutions",
+                "text": "Get software designed around your specific workflows, operational requirements, and business objectives."
+                },
+                {
+                "icon_class": "flaticon-growth",
+                "title": "Scalable Architecture",
+                "text": "Build flexible software that can accommodate growing users, increasing workloads, and changing business needs."
+                }
+            ],
+            "faqs": [
+                {
+                "question": "What is custom software development?",
+                "answer": "Custom software development is the process of designing, building, and maintaining software specifically for a business or organization's requirements. Unlike ready-made products, custom solutions are developed around your workflows, objectives, and operational needs."
+                },
+                {
+                "question": "What types of custom software can you develop?",
+                "answer": "We can develop business management systems, enterprise applications, customer portals, workflow automation platforms, custom web applications, database-driven systems, and software integrations based on your project requirements."
+                },
+                {
+                "question": "How is custom software different from ready-made software?",
+                "answer": "Ready-made software offers predefined features for a broad audience, while custom software is developed around your specific business processes. Custom solutions provide greater flexibility, tailored functionality, and more control over future enhancements."
+                },
+                {
+                "question": "Can you integrate custom software with our existing systems?",
+                "answer": "Yes. We can develop APIs and integrations to connect your custom software with existing applications, databases, payment gateways, CRM platforms, and other third-party services where supported."
+                },
+                {
+                "question": "Do you provide software maintenance and ongoing support?",
+                "answer": "Yes. We provide ongoing support options that can include bug fixes, security updates, performance improvements, feature enhancements, and technical maintenance to keep your software reliable and up to date."
+                }
+            ]
+        },
+
+        {
+            "slug": "game-development",
+            "title": "Game Development",
+            "summary": "Bring creative ideas to life with immersive 2D and 3D games, interactive experiences, and engaging gameplay across platforms.",
+            "icon_svg": "<path d=\"M6.5 8h11a4.5 4.5 0 0 1 4.4 5.5l-.8 3.2a2.5 2.5 0 0 1-4.1 1.2l-2.5-2.2h-5l-2.5 2.2a2.5 2.5 0 0 1-4.1-1.2l-.8-3.2A4.5 4.5 0 0 1 6.5 8Z\"/><path d=\"M7 11v4\"/><path d=\"M5 13h4\"/><path d=\"M16 12h.01\"/><path d=\"M18 14h.01\"/>",
+            "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1600&q=85",
+            "headline": "Immersive Games That Keep Players Coming Back",
+            "lead": "Create unforgettable gaming experiences with immersive visuals, engaging gameplay, and powerful technology built to captivate players.",
+            "description": "At Divainetech, we transform creative concepts into interactive gaming experiences through innovative design and reliable development. From mobile and casual games to immersive 2D and 3D experiences, our game development approach combines engaging gameplay mechanics, intuitive controls, compelling visuals, and optimized performance. We focus on building games that entertain users, encourage engagement, and deliver smooth experiences across supported devices and platforms.",
+            "features": [
+                "Custom 2D and 3D game development",
+                "Mobile game development for Android and iOS",
+                "PC and cross-platform game development",
+                "Game concept development and planning",
+                "Gameplay mechanics and interactive features",
+                "Game UI/UX design and prototyping",
+                "Character design, animation, and environments",
+                "Multiplayer functionality and real-time integration",
+                "Game testing, optimization, and performance tuning",
+                "Game updates, maintenance, and technical support"
+            ],
+            "benefits_title": "Create Engaging Games That Players Love to Experience",
+            "benefits_text": "Successful games combine creativity, technology, and an enjoyable user experience. Our game development process focuses on building engaging gameplay, smooth performance, and visually appealing environments. Whether you are launching a new gaming concept or expanding an existing product, we help turn your vision into a polished interactive experience designed for player engagement and long-term growth.",
+            "benefits_image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1400&q=85",
+            "benefits": [                
+                {
+                "icon_class": "flaticon-settings",
+                "title": "Immersive Gaming Experiences",
+                "text": "Create interactive worlds, engaging gameplay, and memorable experiences that keep players interested."
+                },
+                {
+                "icon_class": "flaticon-growth",
+                "title": "Multi-Platform Compatibility",
+                "text": "Develop games for supported mobile, desktop, and cross-platform environments to reach a wider audience."
+                }
+            ],
+            "faqs": [
+                {
+                "question": "What types of games can you develop?",
+                "answer": "We can develop custom 2D and 3D games, mobile games, casual games, interactive experiences, and other game concepts based on your requirements and target platforms."
+                },
+                {
+                "question": "Do you develop games for Android and iOS?",
+                "answer": "Yes. We can develop mobile gaming experiences for Android and iOS, with platform-appropriate interfaces, controls, and performance optimization."
+                },
+                {
+                "question": "Can you develop 2D and 3D games?",
+                "answer": "Yes. We can work on both 2D and 3D game projects, including gameplay design, environments, characters, animations, interactive elements, and supporting functionality."
+                },
+                {
+                "question": "Can you add multiplayer functionality to a game?",
+                "answer": "Yes. Multiplayer features can be incorporated depending on the project scope, including player connectivity, real-time interactions, game sessions, and supporting backend functionality."
+                },
+                {
+                "question": "Do you provide game maintenance and updates after launch?",
+                "answer": "Yes. We can support your game after launch through bug fixes, performance improvements, feature enhancements, compatibility updates, and additional content development."
+                }
+            ]
+        }
+    ]
+}

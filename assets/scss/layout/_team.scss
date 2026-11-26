@@ -1,0 +1,361 @@
+@use '../utils' as *;
+
+/*=============================
+    	08. Team
+===============================*/
+.team {
+    &__area {
+        &-two {
+            background: var(--primary-color);
+        }
+    }
+    &__content-wrap {
+        @media #{$md} {
+            margin-bottom: 40px;
+        }
+        & p {
+            margin-bottom: 25px;
+            font-weight: 500;
+            text-transform: capitalize;
+            width: 90%;
+            @media #{$lg} {
+                width: 100%;
+            }
+        }
+    }
+    &__item {
+        &.active {
+            & .team__thumb {
+                & img {
+                    filter: grayscale(0);
+                }
+                & .shape svg path {
+                    animation: draw 3s linear forwards;
+                }
+            }
+        }
+        &.active,
+        &:hover {
+            & .team__social {
+                margin-bottom: 0;
+            }
+        }
+        &-two {
+            position: relative;
+            z-index: 1;
+            @include border-radius(20px);
+            &::after {
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                background: radial-gradient(289.66% 100% at 50% 0%, #6792fe 49.09%, #0149fe 72.3%, #013acb 83.28%, #001241 100%);
+                transform: rotate(-180deg);
+                z-index: -1;
+                @include border-radius(20px);
+                pointer-events: none;
+            }
+        }
+    }
+    &__content {
+        & .title {
+            margin-bottom: 8px;
+            font-size: 24px;
+            text-transform: capitalize;
+            @media #{$lg} {
+                font-size: 22px;
+            }
+        }
+        & span {
+            display: block;
+            font-weight: 500;
+            text-transform: capitalize;
+            line-height: 1;
+        }
+        &-two {
+            position: absolute;
+            left: 24px;
+            bottom: 24px;
+            right: 24px;
+            z-index: 2;
+            @media #{$lg} {
+                left: 15px;
+                bottom: 15px;
+                right: 15px;
+            }
+            & .title {
+                margin-bottom: 8px;
+                font-weight: 700;
+                font-size: 20px;
+                color: var(--tg-color-white-default);
+                & a {
+                    background-repeat: no-repeat;
+                    background-position-y: -1px;
+                    background-image: linear-gradient(transparent calc(100% - 2px), var(--tg-color-white-default) 1px);
+                    -webkit-backface-visibility: hidden;
+                    backface-visibility: hidden;
+                    animation: 0.6s cubic-bezier(0.215, 0.61, 0.355, 1) title-underline forwards;
+                    &:hover {
+                        color: var(--tg-color-white-default);
+                        animation: .6s cubic-bezier(.215, .61, .355, 1)title-underline-hover forwards;
+                    }
+                }
+            }
+            & span {
+                letter-spacing: -0.01em;
+                color: rgba(255, 255, 255, 0.7);
+                font-weight: 400;
+                line-height: 1.4;
+            }
+        }
+    }
+    &__thumb {
+        overflow: hidden;
+        position: relative;
+        @include border-radius(25px);
+        margin-bottom: 20px;
+        & img {
+            filter: grayscale(1);
+            background-color: var(--tg-color-white-default);
+            width: 100%;
+        }
+        & .shape {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            color: var(--tg-theme-primary);
+            & svg {
+                & path {
+                    stroke-linecap: round;
+                    stroke-linejoin: round;
+                    stroke-dasharray: 600;
+                    stroke-dashoffset: 600;
+
+                }
+            }
+        }
+        &-two {
+            position: relative;
+            z-index: 1;
+            @include border-radius(20px);
+            &::after,
+            &::before {
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                background: linear-gradient(180deg, rgba(21, 22, 27, 0) 60%, var(--primary-color) 100%);
+                @include border-radius(20px);
+                pointer-events: none;
+            }
+            &::after {
+                background: linear-gradient(180deg, rgba(21, 22, 27, 0) 50%, var(--primary-color) 100%);
+            }
+            & img {
+                width: 100%;
+                @include border-radius(20px);
+                @media #{$xs} {
+                    height: 400px;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+    &__social {
+        @include flexbox();
+        align-items: center;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 55px;
+        justify-content: center;
+        gap: 5px;
+        z-index: 1;
+        margin-bottom: -100px;
+        @include transition(.3s);
+        & li {
+            & a {
+                width: 40px;
+                height: 40px;
+                @include flexbox();
+                align-items: center;
+                justify-content: center;
+                background: var(--tg-color-white-default);
+                @include border-radius(8px);
+                color: var(--tg-theme-primary);
+                &:hover {
+                    color: var(--tg-color-white-default);
+                    background: var(--tg-theme-primary);
+                }
+            }
+        }
+        &-two {
+            @include flexbox();
+            align-items: center;
+            gap: 6px;
+            & li {
+                & a {
+                    width: 40px;
+                    height: 40px;
+                    @include flexbox();
+                    align-items: center;
+                    justify-content: center;
+                    @include border-radius(6px);
+                    background: var(--divider-color);
+                    color: var(--tg-heading-color);
+                    &:hover {
+                        background: var(--tg-theme-primary);
+                        color: var(--tg-color-white-default);
+                    }
+                }
+            }
+        }
+    }
+    &__shape {
+        & img {
+            position: absolute;
+            left: 17%;
+            bottom: 0;
+            z-index: -1;
+            @media #{$xl} {
+                left: 12%;
+            }
+            @media #{$lg} {
+                width: 240px;
+            }
+            @media #{$md} {
+                display: none;
+            }
+        }
+    }
+    &__details {
+        &-img {
+            position: relative;
+            overflow: hidden;
+            @media #{$md} {
+                margin-bottom: 50px;
+            }
+            & img {
+                @include border-radius(24px);
+                width: 100%;
+                height: 590px;
+                object-fit: cover;
+                @media #{$lg} {
+                    height: 500px;
+                }
+                @media #{$xs} {
+                    height: 450px;
+                }
+                @media #{$sm} {
+                    height: 500px;
+                }
+            }
+            & .shape {
+                position: absolute;
+                right: -2px;
+                bottom: -2px;
+                color: var(--tg-theme-primary);
+            }
+        }
+        &-content {
+            margin-left: 45px;
+            @media #{$lg} {
+                margin-left: 20px;
+            }
+            @media #{$md} {
+                margin-left: 0;
+            }
+            & .name {
+                font-size: 36px;
+                margin-bottom: 5px;
+                font-weight: 700;
+                @media #{$lg} {
+                    font-size: 32px;
+                }
+                @media #{$xs} {
+                    font-size: 28px;
+                }
+            }
+            & .sub-title {
+                font-weight: 600;
+                font-size: 18px;
+                color: var(--tg-theme-primary);
+                position: relative;
+                border-bottom: 1px solid var(--divider-color);
+                display: inline-block;
+                min-width: 270px;
+                padding-bottom: 15px;
+                margin-bottom: 25px;
+                @media #{$xs} {
+                    min-width: 100%;
+                }
+                &::before {
+                    content: "";
+                    position: absolute;
+                    left: 0;
+                    bottom: -1px;
+                    width: 40px;
+                    height: 6px;
+                    border-radius: 2px;
+                    background: var(--tg-theme-primary);
+                }
+            }
+            & > p {
+                margin-bottom: 35px;
+                text-transform: capitalize;
+                width: 82%;
+                @media #{$lg} {
+                    width: 100%;
+                }
+            }
+            & .skill__wrap {
+                margin-top: 80px;
+                @media #{$xs} {
+                    margin-top: 40px;
+                }
+                & > .title {
+                    margin-bottom: 20px;
+                    font-weight: 700;
+                    font-size: 30px;
+                    @media #{$xs} {
+                        font-size: 28px;
+                    }
+                }
+                & > p {
+                    margin-bottom: 20px;
+                    text-transform: capitalize;
+                    width: 97%;
+                }
+                & .progress__wrap {
+                    width: 80%;
+                    @media #{$lg} {
+                        width: 90%;
+                    }
+                    @media #{$xs} {
+                        width: 100%;
+                    }
+                }
+            }
+            & .contact__form-wrap-three {
+                margin-left: 0;
+                margin-top: 80px;
+                @media #{$xs} {
+                    margin-top: 40px;
+                }
+            }
+        }
+    }
+}
+
+
+
+@keyframes draw {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+

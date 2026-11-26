@@ -1,0 +1,48 @@
+/* Footer: offices (Dubai + Hong Kong) inside the Contact column */
+.footer__offices {
+  margin-top: 22px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+.footer__office-name {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 6px;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--tg-theme-secondary);
+  text-transform: uppercase;
+}
+.footer__office-name .icon {
+  flex: 0 0 auto;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--tg-theme-primary);
+  color: var(--tg-color-white-default);
+  border-radius: 6px;
+}
+.footer__office-name .icon svg {
+  width: 16px;
+  height: auto;
+}
+.footer__office address {
+  margin: 0 0 0 38px;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--tg-color-gray-6);
+  text-transform: none;
+}
+@media (max-width: 575.98px) {
+  .footer__office address {
+    margin-left: 0;
+  }
+}

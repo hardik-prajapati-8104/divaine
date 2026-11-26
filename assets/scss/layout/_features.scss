@@ -1,0 +1,72 @@
+@use '../utils' as *;
+
+/*=============================
+    	17. Features
+===============================*/
+.features {
+    &__item {
+        @include flexbox();
+        align-items: flex-start;
+        gap: 32px;
+        border-top: 1px solid var(--divider-color);
+        padding: 48px 0;
+        @media #{$lg} {
+            padding: 34px 0;
+        }
+        @media #{$xs} {
+            padding: 28px 0;
+            gap: 25px;
+        }
+        &:last-child {
+            border-bottom: 1px solid var(--divider-color);
+        }
+        &:hover {
+            & .features__icon {
+                transform: rotateY(180deg);
+            }
+        }
+        &-wrap {
+            padding-right: 80px;
+            @media #{$lg} {
+                padding-right: 0;
+            }
+            @media #{$md} {
+                margin-bottom: 50px;
+            }
+        }
+    }
+    &__icon {
+        width: 48px;
+        flex: 0 0 auto;
+        color: var(--tg-theme-primary);
+        @include transition(.3s);
+    }
+    &__content {
+        & .title {
+            margin-bottom: 16px;
+            font-weight: 700;
+            font-size: 24px;
+        }
+        & p {
+            margin-bottom: 0;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 1.56;
+        }
+    }
+    &__img {
+        margin-left: -32px;
+        @media #{$lg} {
+            margin-left: 0;
+        }
+        & img {
+            width: 100%;
+            height: 678px;
+            @include border-radius(20px);
+            object-fit: cover;
+            @media #{$xs} {
+                height: auto;
+            }
+        }
+    }
+}

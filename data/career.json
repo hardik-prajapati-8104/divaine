@@ -1,0 +1,326 @@
+{
+    "settings": {
+        "breadcrumb_image": "assets/img/bg/breadcrumb_bg.jpg",
+        "sidebar_image": "assets/img/bg/sidebar_bg.jpg",
+        "contact_url": "contact.php",
+        "phone": "+971 552783479",
+        "phone_href": "+971552783479",
+        "apply_label": "Apply Now"
+    },
+    "page": {
+        "title": "Divaine Tech Careers",
+        "breadcrumb": "Career"
+    },
+    "intro": {
+        "slides": [
+            "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1400&q=80",
+            "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=80",
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1400&q=80",
+            "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1400&q=80"
+        ],
+        "sub_title": "LIFE AT DIVAINE TECH",
+        "heading": [
+            "Grow Your Career. Shape The Future With Technology."
+        ],
+        "text": "At Divaine Tech, we believe great technology starts with great people. We bring together creative thinkers, skilled professionals, and passionate innovators to develop solutions that make a real difference. From web and mobile development to game development, cloud, and emerging technologies, our team works on meaningful projects that challenge ideas and create opportunities to grow. Join us and be part of a collaborative environment where your skills are valued, your ideas matter, and your potential has room to grow."
+    },
+    "benefits": {
+        "sub_title": "WHY WORK WITH US",
+        "title": "More Than a Workplace. A Place to Grow.",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80",
+        "text": "At Divaine Tech, we believe our people are the driving force behind every innovation. We foster a collaborative and supportive work environment where creativity is encouraged, skills are strengthened, and new ideas are valued. We are committed to creating opportunities that help our team members grow professionally, embrace challenges, and build rewarding careers in technology.",
+        "items": [
+            "Positive & Collaborative Work Culture",
+            "Career Growth Opportunities",
+            "Continuous Learning & Development",
+            "Hands-On Project Experience",
+            "Skill Enhancement & Training",
+            "Innovation-Driven Environment",
+            "Team Collaboration & Knowledge Sharing",
+            "Professional Development Support",
+            "Recognition & Appreciation",
+            "Opportunity to Work With Emerging Technologies"
+        ]
+    },
+    "jobs_section": {
+        "sub_title": "Job Circular",
+        "title": "Ready to Join Our Team",
+        "text": "Explore our current openings and find the role that matches your skills and ambitions. We review every application carefully and respond to shortlisted candidates promptly.",
+        "empty": "There are no open positions right now. Please check back soon."
+    },
+    "contact": {
+        "form_heading": "Contact Us",
+        "sub_title": "Get In Touch",
+        "title": "Let’s build an awesome project together",
+        "text": "Have a question about working with us, or a project in mind? Send us a message and our team will get back to you within one business day.",
+        "address": [
+            "Unit 29-30 11/F Beverley Commercial",
+            "Centre 87-105 Chatham Road South.",
+            "Tsim Sha Tsui",
+            "Hong Kong"
+        ],
+        "email": "hello@divainetech.io",
+        "form_title": "Let's Build Something Great Together",
+        "form_text": "We're always looking for passionate minds and talented individuals who are ready to innovate, grow, and make an impact. Share your details and explore exciting career opportunities at Divaine Tech.",
+        "phones": [
+            {
+                "label": "",
+                "number": "+971 552783479",
+                "href": "+971552783479"
+            },
+            {
+                "label": "",
+                "number": "",
+                "href": ""
+            }
+        ],
+        "form": {
+            "name": "Your Name*",
+            "phone": "Phone Number",
+            "email": "E-mail Address*",
+            "technology": "Select Technology *",
+            "resume_label": "Upload Resume",
+            "resume_help": "PDF, DOC or DOCX, max 5 MB",
+            "message": "Write your message*",
+            "submit": "Send Message",
+            "max_resume_mb": 5
+        }
+    },
+    "apply": {
+        "title": "Apply Form"
+    },
+    "countries": [
+        "United States",
+        "United Kingdom",
+        "India",
+        "Germany"
+    ],
+    "jobs": [
+       
+        {
+            "slug": "laravel-php-developer",
+            "title": "Laravel / PHP Developer",
+            "type": "Full Time",
+            "location": "Dubai",
+            "experience": "1–3 Years",
+        "salary": "Competitive / Based on Experience",
+            "hours": "09:00 am - 06:00 pm",
+            "summary": "Develop scalable web applications, RESTful APIs, and custom business solutions using Laravel, PHP, MySQL, and modern web technologies.",
+
+            "overview": [
+                "As a Laravel / PHP Developer at Divaine Tech, you will be responsible for designing, developing, and maintaining dynamic web applications and custom software solutions. You will work closely with our development, design, and project teams to transform business requirements into reliable, scalable, and high-performance digital products.",
+                "This role is ideal for a passionate developer with strong problem-solving abilities, a solid understanding of backend development, and an interest in building secure and efficient applications using Laravel, PHP, MySQL, and modern development practices."
+            ],
+
+            "responsibilities": {
+                "title": "Job Responsibilities",
+                "intro": "You will contribute to the complete software development lifecycle, from understanding project requirements to developing, testing, and maintaining production-ready applications.",
+                "items": [
+                    "Develop, maintain, and optimize web applications using Laravel and Core PHP",
+                    "Build and integrate RESTful APIs and third-party services",
+                    "Design, manage, and optimize MySQL databases and queries",
+                    "Develop secure authentication systems, user roles, and permission management",
+                    "Write clean, reusable, maintainable, and well-structured code",
+                    "Collaborate with frontend developers and UI/UX designers to implement application features",
+                    "Identify, troubleshoot, and resolve application bugs and performance issues",
+                    "Implement data validation, security best practices, and application optimization",
+                    "Manage source code using Git and follow version control best practices",
+                    "Participate in code reviews, testing, deployment, and ongoing application maintenance"
+                ]
+            },
+
+            "qualifications": {
+                "title": "Qualifications",
+                "intro": "We are looking for a motivated PHP developer with practical Laravel experience and a passion for building quality software solutions.",
+                "items": [
+                    "Bachelor's degree in Computer Science, Information Technology, or a related field",
+                    "1–3 years of professional experience in PHP and Laravel development",
+                    "Strong knowledge of Core PHP, Laravel framework, MVC architecture, and OOP concepts",
+                    "Good understanding of HTML5, CSS3, JavaScript, Bootstrap, and responsive web design",
+                    "Hands-on experience with MySQL database design, relationships, and query optimization",
+                    "Knowledge of REST APIs, JSON, AJAX, and third-party integrations",
+                    "Familiarity with Git, GitHub, and collaborative development workflows",
+                    "Understanding of authentication, authorization, security, and application performance",
+                    "Strong analytical thinking, debugging, and problem-solving abilities",
+                    "Ability to work independently and collaboratively within a development team"
+                ]
+            }
+        },
+
+        {
+            "slug": "full-stack-developer",
+            "title": "Full Stack Developer",
+            "type": "Full Time",
+            "location": "Dubai",
+            "experience": "1–3 Years",
+            "salary": "Based on Skills & Experience",    
+            "hours": "09:00 am - 06:00 pm",
+            "summary": "Design, develop, and maintain end-to-end web applications, backend development, databaseand API integrations to deliver scalable digital solutions.",
+
+            "overview": [
+                "As a Full Stack Developer at Divaine Tech, you will be responsible for building complete web applications, working across both frontend and backend technologies. You will collaborate with our development, design, and project teams to transform business requirements into responsive, functional, secure, and high-performance digital solutions.",
+                "This role is ideal for a versatile developer who enjoys working across the entire development lifecycle, from creating engaging user interfaces to developing robust backend systems, managing databases, integrating APIs, and optimizing application performance."
+            ],
+
+            "responsibilities": {
+                "title": "Job Responsibilities",
+                "intro": "You will contribute to the complete application development process, ensuring seamless integration between frontend interfaces, backend services, and database systems.",
+                "items": [
+                    "Design, develop, and maintain responsive web applications using modern frontend and backend technologies",
+                    "Build dynamic user interfaces using HTML5, CSS3, JavaScript, Bootstrap, and modern frontend frameworks",
+                    "Develop backend applications, business logic, and server-side functionality using PHP and Laravel",
+                    "Design, manage, and optimize MySQL databases, relationships, and database queries",
+                    "Develop, integrate, and maintain RESTful APIs and third-party services",
+                    "Implement secure authentication, authorization, user roles, and permission management",
+                    "Ensure responsive design, cross-browser compatibility, and consistent user experiences",
+                    "Write clean, reusable, scalable, and well-documented code following development best practices",
+                    "Identify, debug, and resolve frontend, backend, database, and application performance issues",
+                    "Collaborate with UI/UX designers, developers, and project managers to deliver project requirements",
+                    "Use Git and GitHub for version control, code collaboration, and project management",
+                    "Participate in application testing, deployment, maintenance, and continuous improvements"
+                ]
+            },
+
+            "qualifications": {
+                "title": "Qualifications",
+                "intro": "We are looking for a skilled and adaptable developer with a strong understanding of frontend and backend technologies and the ability to build complete web applications.",
+                "items": [
+                    "Bachelor's degree in Computer Science, Information Technology, or a related field",
+                    "1–3 years of professional experience in full stack web development",
+                    "Strong knowledge of HTML5, CSS3, JavaScript, Bootstrap, and responsive web design",
+                    "Hands-on experience with PHP, Laravel framework, MVC architecture, and OOP concepts",
+                    "Good understanding of MySQL database design, relationships, joins, and query optimization",
+                    "Experience in developing and integrating RESTful APIs and third-party services",
+                    "Understanding of AJAX, JSON, frontend-backend communication, and asynchronous operations",
+                    "Knowledge of authentication, authorization, application security, and data validation",
+                    "Familiarity with Git, GitHub, and collaborative software development workflows",
+                    "Understanding of website performance optimization, debugging, and cross-browser compatibility",
+                    "Strong analytical thinking, problem-solving, and communication skills",
+                    "Ability to manage multiple tasks and collaborate effectively within a development team"
+                ]
+            }
+        },
+
+        {
+            "slug": "ui-ux-designer",
+            "title": "UI/UX Designer",
+            "type": "Full Time",
+            "location": "Hong Kong",
+            "experience": "1–3 Years",
+            "salary": "Based on Skills & Experience",
+            "hours": "09:00 am - 06:00 pm",
+            "summary": "Create intuitive, visually engaging, and user-focused digital experiences by designing modern website interfaces, mobile applications, wireframes, prototypes, and interactive design systems.",
+
+            "overview": [
+                "As a UI/UX Designer at Divaine Tech, you will be responsible for creating engaging, intuitive, and visually appealing digital experiences for websites, mobile applications, and software solutions. You will collaborate closely with developers, project managers, and other creative team members to transform business requirements and user needs into effective design solutions.",
+                "This role is ideal for a creative and detail-oriented designer who understands both user experience and visual design principles, enjoys solving design challenges, and is passionate about creating accessible, responsive, and user-friendly digital products."
+            ],
+
+            "responsibilities": {
+                "title": "Job Responsibilities",
+                "intro": "You will lead the design process from initial research and concept development to interactive prototypes and final design handoffs, ensuring a consistent and meaningful user experience.",
+                "items": [
+                    "Design modern, responsive, and user-friendly interfaces for websites, mobile applications, and software platforms",
+                    "Create wireframes, user flows, mockups, interactive prototypes, and high-fidelity UI designs",
+                    "Use Figma and other relevant design tools to develop and maintain design concepts",
+                    "Conduct user research and analyze user requirements to understand customer needs and behavior",
+                    "Develop intuitive navigation structures and user journeys that improve usability and engagement",
+                    "Create and maintain consistent design systems, reusable components, typography, and color guidelines",
+                    "Apply UI/UX best practices to ensure accessibility, usability, and responsive design across devices",
+                    "Collaborate with frontend developers to ensure accurate implementation of approved designs",
+                    "Review implemented interfaces and provide design feedback to maintain visual and functional consistency",
+                    "Stay updated with emerging design trends, modern interface patterns, and industry best practices",
+                    "Collect feedback, identify usability issues, and continuously improve existing designs",
+                    "Prepare design specifications and assets for smooth developer handoff"
+                ]
+            },
+
+            "qualifications": {
+                "title": "Qualifications",
+                "intro": "We are looking for a creative UI/UX Designer with a strong visual sense, an understanding of user-centered design, and the ability to turn ideas into practical digital experiences.",
+                "items": [
+                    "Bachelor's degree in Design, Computer Science, Information Technology, or a related field",
+                    "1–3 years of professional experience in UI/UX or digital product design",
+                    "Strong hands-on experience with Figma and familiarity with other design tools",
+                    "Good understanding of UI design principles, UX methodologies, typography, color theory, and visual hierarchy",
+                    "Experience creating wireframes, prototypes, user flows, and high-fidelity interface designs",
+                    "Understanding of responsive web design and mobile-first design principles",
+                    "Knowledge of usability, accessibility, interaction design, and user-centered design practices",
+                    "Familiarity with HTML5, CSS3, and Bootstrap is an added advantage",
+                    "Ability to create consistent design systems and reusable UI components",
+                    "A strong portfolio showcasing website, mobile application, or digital product design projects",
+                    "Excellent attention to detail, creativity, and problem-solving abilities",
+                    "Strong communication skills and the ability to collaborate with cross-functional teams"
+                ]
+            }
+        },
+
+        {
+            "slug": "game-developer",
+            "title": "Game Developer",
+            "type": "Full Time",
+            "location": "Dubai",
+            "experience": "1–3 Years",
+            "salary": "Based on Skills & Experience",
+            "hours": "09:00 am - 06:00 pm",
+            "summary": "Design, develop, and optimize engaging interactive gaming experiences using modern game development technologies, programming languages, and creative gameplay mechanics.",
+
+            "overview": [
+                "As a Game Developer at Divaine Tech, you will be responsible for designing, developing, and implementing engaging gaming experiences across different platforms. You will work closely with designers, artists, developers, and project teams to transform creative concepts into interactive, visually appealing, and high-performance games.",
+                "This role is ideal for a passionate developer with strong programming skills, creative thinking, and an interest in game mechanics, interactive environments, and real-time experiences. You will have the opportunity to contribute to the complete game development lifecycle, from initial concepts and prototyping to testing, optimization, and deployment."
+            ],
+
+            "responsibilities": {
+                "title": "Job Responsibilities",
+                "intro": "You will contribute to the complete game development lifecycle, building interactive gameplay systems, implementing features, and ensuring smooth performance across supported platforms.",
+                "items": [
+                    "Design, develop, and implement interactive gameplay features and game mechanics",
+                    "Develop games using game engines such as Unity or Unreal Engine",
+                    "Write clean, efficient, and maintainable code using C#, C++, or other relevant programming languages",
+                    "Build and integrate game systems, character controls, animations, physics, and user interfaces",
+                    "Collaborate with game designers, 2D/3D artists, and other developers to bring creative concepts to life",
+                    "Implement audio, visual effects, interactive environments, and gameplay elements",
+                    "Integrate APIs, third-party SDKs, multiplayer functionality, and external game services where required",
+                    "Optimize game performance, loading times, memory usage, and resource management",
+                    "Identify, debug, and resolve technical issues, gameplay bugs, and compatibility problems",
+                    "Conduct gameplay testing and improve overall user experience, stability, and responsiveness",
+                    "Maintain code quality and manage development workflows using Git and version control systems",
+                    "Research emerging gaming technologies, tools, and development techniques to improve game experiences"
+                ]
+            },
+
+            "qualifications": {
+                "title": "Qualifications",
+                "intro": "We are looking for a creative and technically skilled Game Developer with a passion for interactive entertainment and the ability to turn innovative ideas into engaging gaming experiences.",
+                "items": [
+                    "Bachelor's degree in Computer Science, Information Technology, Game Development, or a related field",
+                    "1–3 years of professional experience in game development or interactive application development",
+                    "Hands-on experience with Unity or Unreal Engine",
+                    "Good programming knowledge of C#, C++, or other game development languages",
+                    "Understanding of object-oriented programming, data structures, and software development fundamentals",
+                    "Knowledge of game mechanics, gameplay systems, physics, animations, and user interface implementation",
+                    "Understanding of 2D and 3D game development concepts and real-time rendering fundamentals",
+                    "Familiarity with asset integration, scene management, and game optimization techniques",
+                    "Knowledge of debugging, testing, performance profiling, and cross-platform compatibility",
+                    "Familiarity with Git, GitHub, and collaborative development workflows",
+                    "Creative problem-solving abilities, attention to detail, and a passion for gaming",
+                    "Strong communication skills and the ability to work collaboratively within a development team"
+                ]
+            }
+        }
+
+    ],
+    "technologies": [
+        "Web Development",
+        "Mobile App Development",
+        "UI/UX Design & Branding",
+        "Digital Marketing",
+        "AI & Automation",
+        "Cloud & DevOps",
+        "Cybersecurity",
+        "Data & Analytics",
+        "Custom Software Development",
+        "Game Development",
+        "Other"
+    ]
+}

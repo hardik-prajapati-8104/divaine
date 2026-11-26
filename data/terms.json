@@ -1,0 +1,148 @@
+{
+    "settings": {
+        "breadcrumb_image": "assets/img/bg/breadcrumb_bg.jpg",
+        "sidebar_image": "assets/img/bg/sidebar_bg.jpg",
+        "phone": "+971 552783479",
+        "phone_href": "+971552783479",
+        "email": "hello@divainetech.io",
+        "contact_url": "contact.php"
+    },
+    "page": {
+        "title": "Terms & Conditions",
+        "sub_title": "Legal",
+        "heading": "Please read these terms carefully",
+        "intro": "These Terms & Conditions explain the rules for using the Divaine Tech website and working with our team. They are written to be clear and fair for everyone.",
+        "last_updated": "2026-11-25",
+        "toc_title": "Table of Contents",
+        "contact_heading": "Questions about these terms?",
+        "contact_text": "Our team is happy to explain anything in plain language."
+    },
+    "sections": [
+        {
+            "id": "acceptance",
+            "title": "Acceptance of Terms",
+            "paragraphs": [
+                "By accessing this website or engaging Divaine Tech for any product or service, you confirm that you have read, understood and agreed to these Terms & Conditions. If you do not agree, please stop using the website and our services.",
+                "If you are accepting these terms on behalf of a company or organisation, you confirm that you have the authority to bind that entity."
+            ],
+            "items": []
+        },
+        {
+            "id": "services",
+            "title": "Our Services",
+            "paragraphs": [
+                "Divaine Tech provides IT solutions including web design and development, custom software, SEO and digital marketing, cloud and infrastructure support, and ongoing maintenance. The exact deliverables for every engagement are set out in a written proposal, quotation or service agreement."
+            ],
+            "items": [
+                "Descriptions on this website are for general information and do not form a contract on their own.",
+                "We may improve, modify or discontinue any service with reasonable notice.",
+                "Timelines given are estimates and depend on timely feedback and materials from you."
+            ]
+        },
+        {
+            "id": "eligibility",
+            "title": "Eligibility & Accounts",
+            "paragraphs": [
+                "You must be at least 18 years old and legally able to enter into a binding agreement to use our services.",
+                "Where an account, dashboard or hosting access is provided, you are responsible for keeping credentials confidential and for all activity carried out under them. Please notify us immediately of any unauthorised use."
+            ],
+            "items": []
+        },
+        {
+            "id": "scope-payments",
+            "title": "Project Scope, Quotes & Payments",
+            "paragraphs": [
+                "Each project begins with an agreed scope. Work outside that scope is treated as a change request and may affect cost and delivery dates."
+            ],
+            "items": [
+                "Quotes are valid for 30 days unless stated otherwise.",
+                "A deposit may be required before work starts; milestone and final payments are due as shown on each invoice.",
+                "Late payments may pause work and may incur reasonable late fees where permitted by law.",
+                "Third-party costs such as domains, licences, hosting and stock assets are billed separately unless included in the quote."
+            ]
+        },
+        {
+            "id": "client-responsibilities",
+            "title": "Client Responsibilities",
+            "paragraphs": [
+                "To deliver on time and to a high standard, we need your cooperation."
+            ],
+            "items": [
+                "Provide accurate information, content, images and approvals promptly.",
+                "Make sure you own, or have permission to use, all materials you supply.",
+                "Nominate a single point of contact for feedback and sign-off.",
+                "Review deliverables within the agreed period and report issues clearly in writing."
+            ]
+        },
+        {
+            "id": "intellectual-property",
+            "title": "Intellectual Property",
+            "paragraphs": [
+                "Upon receipt of full payment, you own the final, custom deliverables created specifically for you, excluding third-party components and our pre-existing tools.",
+                "Divaine Tech retains ownership of its frameworks, libraries, templates, know-how and any materials created before or independently of your project, and grants you a non-exclusive licence to use them as part of your deliverables.",
+                "We may display completed work in our portfolio unless you ask us in writing not to."
+            ],
+            "items": []
+        },
+        {
+            "id": "confidentiality",
+            "title": "Confidentiality & Data Protection",
+            "paragraphs": [
+                "We treat non-public business information that you share with us as confidential and use it only to deliver the agreed services. This does not apply to information that is public, already known to us, or required to be disclosed by law.",
+                "Personal data is handled in line with our Privacy Policy and applicable data protection laws. Where we process personal data on your behalf, we will do so only on your instructions and with appropriate security measures."
+            ],
+            "items": []
+        },
+        {
+            "id": "third-party",
+            "title": "Third-Party Services & Links",
+            "paragraphs": [
+                "Our work and website may rely on or link to third-party platforms such as hosting providers, payment gateways, analytics and APIs. These services are governed by their own terms, and we are not responsible for their availability, content or practices."
+            ],
+            "items": []
+        },
+        {
+            "id": "warranties",
+            "title": "Warranties & Disclaimers",
+            "paragraphs": [
+                "We carry out services with reasonable skill and care. Except as expressly stated in a written agreement, our website and services are provided \"as is\" and \"as available\" without warranties of any kind, whether express or implied.",
+                "We do not guarantee specific business results such as search rankings, traffic volumes, leads or revenue, as these depend on many factors outside our control."
+            ],
+            "items": []
+        },
+        {
+            "id": "liability",
+            "title": "Limitation of Liability",
+            "paragraphs": [
+                "To the maximum extent permitted by law, Divaine Tech will not be liable for indirect, incidental or consequential losses, including loss of profit, data or goodwill.",
+                "Our total liability for any claim relating to a service is limited to the fees you paid for that service in the three months before the claim arose."
+            ],
+            "items": []
+        },
+        {
+            "id": "termination",
+            "title": "Termination",
+            "paragraphs": [
+                "Either party may end an engagement with written notice as set out in the applicable agreement. We may suspend or terminate access immediately if these terms are breached or payments remain overdue.",
+                "On termination, you must pay for work completed up to that date. Sections that by their nature should continue, such as intellectual property, confidentiality and liability, remain in effect."
+            ],
+            "items": []
+        },
+        {
+            "id": "governing-law",
+            "title": "Governing Law & Disputes",
+            "paragraphs": [
+                "These terms are governed by the laws of the jurisdiction in which Divaine Tech is registered. We encourage you to contact us first so that any concern can be resolved informally and quickly; unresolved disputes will be handled by the competent courts of that jurisdiction."
+            ],
+            "items": []
+        },
+        {
+            "id": "changes",
+            "title": "Changes to These Terms",
+            "paragraphs": [
+                "We may update these Terms & Conditions from time to time. The latest version will always be published on this page with a new \"last updated\" date. Continued use of our website or services after changes take effect means you accept the revised terms."
+            ],
+            "items": []
+        }
+    ]
+}

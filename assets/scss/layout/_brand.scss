@@ -1,0 +1,178 @@
+@use '../utils' as *;
+
+/*=============================
+    	04. Brand
+===============================*/
+.brand {
+    &__area {
+        padding: 50px 50px;
+        background: var(--tg-color-gray-3);
+        @media #{$xl} {
+            padding: 50px 30px;
+        }
+        @media #{$lg} {
+            padding: 45px 20px;
+        }
+        &-two {
+            padding-top: 60px;
+        }
+        &-three {
+            padding: 24px 0;
+            margin-top: -80px;
+            z-index: -1;
+            position: inherit;
+            @media #{$lg} {
+                padding: 19px 0;
+                margin-top: -70px;
+            }
+        }
+        &-four {
+            & .title {
+                margin-bottom: 25px;
+                font-weight: 600;
+                font-size: 16px;
+                color: var(--tg-color-white-default);
+                text-transform: none;
+            }
+        }
+    }
+    &__inner-wrap {
+        @include flexbox();
+        align-items: center;
+        gap: 20px;
+        position: relative;
+        z-index: 2;
+        @media #{$xs} {
+            flex-wrap: wrap;
+        }
+        &-two {
+            width: 72%;
+            @media #{$xxl} {
+                width: 70%;
+            }
+            @media #{$xl} {
+                width: 67%;
+            }
+            @media #{$lg} {
+                width: 72%;
+            }
+            @media #{$xs} {
+                width: 74%;
+            }
+        }
+    }
+    &__title {
+        margin-bottom: 0;
+        font-weight: 600;
+        font-size: 16px;
+        width: 12%;
+        flex: 0 0 auto;
+        padding-right: 30px;
+        position: relative;
+        line-height: 1.5;
+        border-right: 1px solid var(--tg-border-5);
+        @media #{$lg} {
+            width: 17%;
+        }
+        @media #{$md} {
+            width: 20%;
+            padding-right: 15px;
+        }
+        @media #{$xs} {
+            width: 100%;
+            padding-right: 0;
+            text-align: center;
+            padding-bottom: 15px;
+            border-right: none;
+            border-bottom: 1px solid var(--tg-border-5);
+        }
+        &::after,
+        &::before {
+            content: "";
+            position: absolute;
+            right: -4px;
+            top: -2px;
+            clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+            width: 7px;
+            height: 7px;
+            background: var(--tg-border-5);
+            @media #{$xs} {
+                right: auto;
+                top: auto;
+                bottom: -4px;
+                left: 0;
+            }
+        }
+        &::after {
+            top: auto;
+            bottom: -2px;
+            @media #{$xs} {
+                right: 0;
+                top: auto;
+                bottom: -4px;
+                left: auto;
+            }
+        }
+        & br {
+            @media #{$xs} {
+                display: none;
+            }
+        }
+    }
+    &__item {
+        @include flexbox();
+        min-height: 32px;
+        align-items: center;
+        justify-content: center;
+        & img {
+            cursor: pointer;
+        }
+        &-two {
+            background: #101931;
+            @include border-radius(20px);
+            height: 140px;
+            min-width: 220px;
+            padding: 20px 50px;
+            @include flexbox();
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            @media #{$xs} {
+                height: 125px;
+                min-width: 200px;
+                padding: 20px 30px;
+            }
+            & img {
+                opacity: .5;
+            }
+            &:hover {
+                & img {
+                    opacity: 1;
+                }
+            }
+        }
+        &-wrap {
+            position: relative;
+            &::before,
+            &::after {
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 80px;
+                height: 100%;
+                background: linear-gradient(270deg, rgba(21, 22, 27, 0) 0%, #010a24 100%);
+                z-index: 2;
+            }
+            &::before {
+                left: auto;
+                right: 0;
+                transform: rotate(-180deg);
+            }
+        }
+    }
+}
+
+.brand__active-three .swiper-slide {
+    width: auto !important;
+}

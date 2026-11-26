@@ -1,0 +1,410 @@
+{
+    "settings": {
+        "phone": "+971 552783479",
+        "phone_href": "+971552783479",
+        "contact_url": "contact.php",
+        "breadcrumb_image": "assets/img/bg/breadcrumb_bg.jpg",
+        "sidebar_image": "assets/img/bg/sidebar_bg.jpg",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/"
+            },
+            {
+                "name": "x",
+                "url": "https://x.com/"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/"
+            },
+            {
+                "name": "pinterest",
+                "url": "https://www.pinterest.com/"
+            }
+        ]
+    },
+    "listing": {
+        "title": "Our Projects",
+        "sub_title": "Ideas Into Impact",
+        "heading": "Explore the Digital Solutions We Bring to Life"
+    },
+    "details": {
+        "overview_title": "Overview:",
+        "sidebar_title": "Project Overview",
+        "related_title": "More Projects",
+        "prev": "Previous Project",
+        "next": "Next Project"
+    },
+    "projects": [
+        {
+            "slug": "futuristic-thinking",
+            "title": "Futuristic Thinking",
+            "category": "Digital Transformation",
+            "thumb": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "Futuristic Thinking explores how emerging technologies can turn ambitious business ideas into practical digital experiences. The project focuses on combining modern interfaces, connected systems and forward-looking technology to help organisations prepare for what comes next.",
+                "From early concept development to solution planning, the approach prioritises usability, adaptability and a clear technology roadmap. The result is a flexible digital foundation designed to evolve as business needs and customer expectations change."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The key challenge was translating a broad, future-focused vision into a clear and achievable technology direction. The solution needed to balance innovation with real-world usability, integration requirements, security and long-term scalability.",
+            "features": [
+                "Future-focused technology and solution roadmap",
+                "User-centred digital experience planning",
+                "Scalable and adaptable architecture",
+                "Integration strategy for connected business systems",
+                "Clear delivery priorities and measurable milestones"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project established a practical direction for digital innovation, giving stakeholders a clearer roadmap, aligned priorities and a scalable foundation for future development.",
+            "bottom_image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 90,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 80,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Rchard Hiamea",
+                "Date": "17 March, 2025",
+                "Category": "Modern",
+                "Author": "Mark Willy",
+                "Place": "Paris"
+            }
+        },
+        {
+            "slug": "cyber-solutions",
+            "title": "Cyber Solutions",
+            "category": "Cybersecurity",
+            "thumb": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "Cyber Solutions focuses on strengthening an organisation’s digital environment through a layered approach to cybersecurity. The project brings together risk awareness, infrastructure protection and security practices to help safeguard systems, users and business information.",
+                "The solution is centred on identifying potential weaknesses, improving security controls and supporting a more resilient technology environment. It is designed to help teams manage digital risk while maintaining reliable day-to-day operations."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The main challenge was to address growing cyber risks across connected systems without creating unnecessary complexity for employees. Security improvements needed to support business continuity, protect sensitive information and remain manageable as the organisation grows.",
+            "features": [
+                "Security risk and vulnerability assessment",
+                "Network and endpoint protection planning",
+                "Access control and identity security practices",
+                "Data protection and backup strategy",
+                "Ongoing monitoring and security improvement guidance"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1510511459019-5lda0b0c0b4b?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project delivered a structured cybersecurity improvement plan, helping the organisation strengthen its defensive posture, improve security awareness and prepare for evolving digital threats.",
+            "bottom_image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 88,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 83,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Daniel Carter",
+                "Date": "02 May, 2025",
+                "Category": "Security",
+                "Author": "Sarah Khan",
+                "Place": "Dubai"
+            }
+        },
+        {
+            "slug": "ai-development",
+            "title": "AI Development",
+            "category": "Artificial Intelligence & Automation",
+            "thumb": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "AI Development showcases the use of artificial intelligence to simplify complex tasks, surface useful insights and improve digital workflows. The project explores how intelligent capabilities can be applied to practical business requirements rather than technology for its own sake.",
+                "By aligning data, automation opportunities and user needs, the solution is planned to support faster decisions and more consistent processes. The approach leaves room for refinement as data quality, operational needs and adoption evolve."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The challenge was to identify meaningful AI use cases and turn them into a dependable solution. The project needed to consider data readiness, accuracy, workflow fit, user trust and responsible use while avoiding unnecessary automation.",
+            "features": [
+                "AI use-case discovery and solution planning",
+                "Intelligent workflow automation",
+                "Data-driven insights and decision support",
+                "Integration with existing digital tools",
+                "Human review and continuous model improvement"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1535378620166-273708d44e4c?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project defined a practical AI-enabled workflow that can reduce repetitive effort, support better-informed decisions and provide a foundation for responsible future automation.",
+            "bottom_image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 86,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 86,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Olivia Martin",
+                "Date": "21 June, 2025",
+                "Category": "Artificial Intelligence",
+                "Author": "Mark Willy",
+                "Place": "London"
+            }
+        },
+        {
+            "slug": "initiation-planning",
+            "title": "Initiation & Planning",
+            "category": "IT Consulting",
+            "thumb": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "Initiation & Planning is focused on turning business objectives into a structured and achievable technology project. It brings stakeholders together to define the scope, understand requirements and establish a shared view of priorities before implementation begins.",
+                "The planning process considers resources, dependencies, delivery stages and potential risks. This creates a clear foundation for decision-making and helps keep the project aligned with its intended business outcomes."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The key challenge was to bring clarity to project goals, requirements and responsibilities at an early stage. Competing priorities and unclear dependencies can create delays, so the work focused on establishing alignment and a realistic delivery plan.",
+            "features": [
+                "Stakeholder discovery and requirement gathering",
+                "Project scope and objective definition",
+                "Milestone and delivery roadmap planning",
+                "Resource, dependency and risk assessment",
+                "Governance and progress measurement framework"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project produced a clear initiation framework and actionable roadmap, helping stakeholders understand what needs to be delivered, how progress will be measured and which decisions are required.",
+            "bottom_image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 90,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 89,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "James Wilson",
+                "Date": "09 August, 2025",
+                "Category": "Consulting",
+                "Author": "Ayesha Noor",
+                "Place": "Abu Dhabi"
+            }
+        },
+        {
+            "slug": "testing-maintenance",
+            "title": "Testing & Maintenance",
+            "category": "Quality Assurance",
+            "thumb": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "Testing & Maintenance focuses on keeping digital products dependable throughout their lifecycle. The project combines quality assurance practices with ongoing maintenance planning to help identify defects, protect performance and deliver a consistent user experience.",
+                "Testing is considered across key user journeys, functional requirements and supported environments. Maintenance activities then provide a structured way to address issues, apply updates and keep the solution aligned with changing needs."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The challenge was to improve software reliability while minimising disruption to users and business operations. Testing needed to cover important scenarios, and maintenance had to be planned in a way that supports stability over time.",
+            "features": [
+                "Functional and regression testing",
+                "Cross-device and responsive quality checks",
+                "Issue tracking and defect prioritisation",
+                "Performance and usability review",
+                "Maintenance, updates and release support"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project established a quality-focused testing and maintenance process, supporting more reliable releases, faster issue resolution and a better experience for users.",
+            "bottom_image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 88,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 80,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Emma Brown",
+                "Date": "14 September, 2025",
+                "Category": "Maintenance",
+                "Author": "Sarah Khan",
+                "Place": "Berlin"
+            }
+        },
+        {
+            "slug": "cloud-migration-platform",
+            "title": "Cloud Migration Platform",
+            "category": "Cloud Computing & DevOps",
+            "thumb": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "Cloud Migration Platform is centred on moving business applications and workloads towards a flexible cloud environment. The project considers infrastructure, application dependencies, data movement and operational requirements to support a controlled transition.",
+                "A phased migration approach helps teams prepare workloads, validate performance and plan for continuity. The goal is to create a cloud foundation that can scale with demand while remaining secure, observable and cost-conscious."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The main challenge was to plan a migration that reduces operational risk and downtime while accounting for legacy systems, data integrity, security and ongoing service availability.",
+            "features": [
+                "Cloud readiness and workload assessment",
+                "Migration strategy and phased execution plan",
+                "Data transfer and integrity validation",
+                "Cloud security and access configuration",
+                "Monitoring, optimisation and DevOps practices"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project delivered a structured cloud migration roadmap and operational framework, helping the organisation move towards improved flexibility, resilience and more efficient infrastructure management.",
+            "bottom_image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 86,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 83,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Noah Davis",
+                "Date": "30 October, 2025",
+                "Category": "Cloud",
+                "Author": "Mark Willy",
+                "Place": "Singapore"
+            }
+        },
+        {
+            "slug": "smart-analytics-dashboard",
+            "title": "Smart Analytics Dashboard",
+            "category": "Data & Analytics",
+            "thumb": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "Smart Analytics Dashboard brings important business information into a clear, accessible view. The project focuses on organising data from relevant sources and presenting meaningful metrics so teams can understand performance and make informed decisions.",
+                "The dashboard experience is planned around useful visualisations, clear navigation and role-relevant information. This helps reduce the effort involved in gathering reports and makes important trends easier to identify."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The challenge was to turn scattered data into consistent and understandable information. Metrics needed to be presented clearly, with attention to data accuracy, reporting needs and the different questions stakeholders need to answer.",
+            "features": [
+                "Centralised business performance dashboard",
+                "Interactive charts and KPI summaries",
+                "Data source integration and organisation",
+                "Role-based views and reporting",
+                "Trend analysis and actionable insights"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project created a unified analytics experience that makes key performance indicators easier to monitor, supports faster reporting and helps stakeholders make decisions with greater confidence.",
+            "bottom_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 90,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 86,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Sophia Lee",
+                "Date": "12 November, 2025",
+                "Category": "Analytics",
+                "Author": "Ayesha Noor",
+                "Place": "New York"
+            }
+        },
+        {
+            "slug": "mobile-banking-app",
+            "title": "Mobile Banking App",
+            "category": "Mobile Application Development",
+            "thumb": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "Mobile Banking App focuses on delivering convenient access to everyday banking services through a mobile-first experience. The project considers the needs of customers who expect clear navigation, secure access and timely visibility into their financial activity.",
+                "The experience is designed around essential banking journeys, with a strong emphasis on usability, privacy and dependable performance. Security controls and straightforward interactions are key considerations throughout the product experience."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The challenge was to make important banking tasks simple to complete on mobile while maintaining strong security and clear feedback at every step. The experience needed to support trust, accessibility and consistent performance.",
+            "features": [
+                "Secure sign-in and account access experience",
+                "Account balance and transaction views",
+                "Intuitive mobile-first navigation",
+                "Payment and transfer journey planning",
+                "Transaction alerts and security-focused UX"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project defined a streamlined mobile banking experience that places essential account information and everyday banking journeys within easy reach, supported by a security-conscious design approach.",
+            "bottom_image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 88,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 89,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Liam Johnson",
+                "Date": "05 December, 2025",
+                "Category": "Mobile",
+                "Author": "Sarah Khan",
+                "Place": "Toronto"
+            }
+        },
+        {
+            "slug": "enterprise-erp-system",
+            "title": "Enterprise ERP System",
+            "category": "Enterprise Software",
+            "thumb": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=85",
+            "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1600&q=85",
+            "overview": [
+                "Enterprise ERP System is designed to bring core business operations into a more connected and manageable digital environment. The project focuses on aligning information and workflows across functions such as finance, inventory, sales, purchasing and operations.",
+                "By centralising processes and improving visibility, an ERP platform can help teams work from more consistent information. The solution is planned around business-specific workflows, access requirements and the ability to expand as operations grow."
+            ],
+            "challenge_title": "The Project Challenge:",
+            "challenge": "The challenge was to connect multiple departments and processes without disrupting established operations. The system needed to support consistent data, controlled access and workflows that reflect how the business actually works.",
+            "features": [
+                "Centralised business data and operations",
+                "Finance, sales and purchasing workflow support",
+                "Inventory and resource visibility",
+                "Role-based access and approval processes",
+                "Reporting and configurable business workflows"
+            ],
+            "inner_image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1100&q=85",
+            "result_title": "The Outcome:",
+            "result": "The project established a unified ERP solution concept that improves operational visibility, supports more consistent workflows and provides a scalable foundation for business process management.",
+            "bottom_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=2000&q=85",
+            "counters": [
+                {
+                    "value": 86,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 80,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Mia Anderson",
+                "Date": "18 January, 2026",
+                "Category": "Enterprise",
+                "Author": "Mark Willy",
+                "Place": "Sydney"
+            }
+        }
+    ]
+}

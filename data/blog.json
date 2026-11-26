@@ -1,0 +1,506 @@
+{
+    "settings": {
+        "phone": "+971 552783479",
+        "phone_href": "+971552783479",
+        "contact_url": "contact.php",
+        "breadcrumb_image": "assets/img/bg/breadcrumb_bg.jpg",
+        "sidebar_image": "assets/img/bg/sidebar_bg.jpg",
+        "video_url": "https://www.youtube.com/watch?v=6mkoGSqTqFI",
+        "recent_count": 4,
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/"
+            },
+            {
+                "name": "x",
+                "url": "https://x.com/"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/"
+            },
+            {
+                "name": "pinterest",
+                "url": "https://www.pinterest.com/"
+            }
+        ]
+    },
+    "listing": {
+        "title": "Blogs",
+        "breadcrumb": "Latest Blogs",
+        "per_page": 4,
+        "read_more": "Read More",
+        "empty": "No posts found. Try a different search or category."
+    },
+    "posts": [
+        {
+            "slug": "get-a-few-solutions-to-hire-the-best-tech-candidate",
+            "title": "Get a few solutions to hire the best tech candidate",
+            "date": "2025-09-12",
+            "author": {
+                "name": "Michel Richard",
+                "avatar": "assets/img/images/testi_avatar01.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Technology Trends",
+            "tags": [
+                "Strategy",
+                "Hiring"
+            ],
+            "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at hiring the right technology talent: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about hiring the right technology talent. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with hiring the right technology talent comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "why-every-business-needs-a-cybersecurity-roadmap-in-2026",
+            "title": "Why every business needs a cybersecurity roadmap in 2026",
+            "date": "2025-09-28",
+            "author": {
+                "name": "Parker Willy",
+                "avatar": "assets/img/images/testi_avatar03.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Cybersecurity",
+            "tags": [
+                "Security",
+                "Strategy"
+            ],
+            "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at building a practical cybersecurity roadmap: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about building a practical cybersecurity roadmap. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with building a practical cybersecurity roadmap comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "how-ai-automation-is-reshaping-everyday-operations",
+            "title": "How AI automation is reshaping everyday operations",
+            "date": "2025-10-14",
+            "author": {
+                "name": "Jessica Rose",
+                "avatar": "assets/img/images/testi_avatar02.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "AI & Automation",
+            "tags": [
+                "AI",
+                "Automation"
+            ],
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at using AI automation across daily operations: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about using AI automation across daily operations. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with using AI automation across daily operations comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "cloud-migration-without-downtime-a-practical-checklist",
+            "title": "Cloud migration without downtime: a practical checklist",
+            "date": "2025-10-21",
+            "author": {
+                "name": "Michel Richard",
+                "avatar": "assets/img/images/testi_avatar01.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Cloud & DevOps",
+            "tags": [
+                "Cloud",
+                "DevOps"
+            ],
+            "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at migrating workloads to the cloud safely: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about migrating workloads to the cloud safely. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with migrating workloads to the cloud safely comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "responsive-web-design-trends-that-convert-visitors",
+            "title": "Responsive web design trends that convert visitors",
+            "date": "2025-11-03",
+            "author": {
+                "name": "Parker Willy",
+                "avatar": "assets/img/images/testi_avatar03.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Web & Mobile",
+            "tags": [
+                "Web",
+                "UI/UX"
+            ],
+            "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at designing responsive, high-converting websites: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about designing responsive, high-converting websites. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with designing responsive, high-converting websites comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "zero-trust-explained-for-growing-companies",
+            "title": "Zero trust explained for growing companies",
+            "date": "2025-11-19",
+            "author": {
+                "name": "Jessica Rose",
+                "avatar": "assets/img/images/testi_avatar02.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Cybersecurity",
+            "tags": [
+                "Security",
+                "Cloud"
+            ],
+            "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at adopting a zero trust security model: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about adopting a zero trust security model. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with adopting a zero trust security model comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "five-signs-your-business-is-ready-for-custom-software",
+            "title": "Five signs your business is ready for custom software",
+            "date": "2025-12-05",
+            "author": {
+                "name": "Michel Richard",
+                "avatar": "assets/img/images/testi_avatar01.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Technology Trends",
+            "tags": [
+                "Strategy",
+                "Software"
+            ],
+            "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at deciding when custom software makes sense: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about deciding when custom software makes sense. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with deciding when custom software makes sense comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "building-chatbots-that-customers-actually-enjoy",
+            "title": "Building chatbots that customers actually enjoy",
+            "date": "2025-12-27",
+            "author": {
+                "name": "Parker Willy",
+                "avatar": "assets/img/images/testi_avatar03.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "AI & Automation",
+            "tags": [
+                "AI",
+                "UI/UX"
+            ],
+            "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at designing helpful AI chatbots: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about designing helpful AI chatbots. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with designing helpful AI chatbots comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "ci-cd-pipelines-ship-faster-with-fewer-surprises",
+            "title": "CI/CD pipelines: ship faster with fewer surprises",
+            "date": "2026-01-15",
+            "author": {
+                "name": "Jessica Rose",
+                "avatar": "assets/img/images/testi_avatar02.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Cloud & DevOps",
+            "tags": [
+                "DevOps",
+                "Automation"
+            ],
+            "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at automating releases with CI/CD: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about automating releases with CI/CD. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with automating releases with CI/CD comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "mobile-app-development-native-or-cross-platform",
+            "title": "Mobile app development: native or cross-platform?",
+            "date": "2026-02-09",
+            "author": {
+                "name": "Michel Richard",
+                "avatar": "assets/img/images/testi_avatar01.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Web & Mobile",
+            "tags": [
+                "Mobile",
+                "Strategy"
+            ],
+            "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at choosing the right mobile app approach: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about choosing the right mobile app approach. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with choosing the right mobile app approach comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "turning-raw-data-into-dashboards-your-team-will-use",
+            "title": "Turning raw data into dashboards your team will use",
+            "date": "2026-03-02",
+            "author": {
+                "name": "Parker Willy",
+                "avatar": "assets/img/images/testi_avatar03.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Technology Trends",
+            "tags": [
+                "Data",
+                "Strategy"
+            ],
+            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at creating useful analytics dashboards: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about creating useful analytics dashboards. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with creating useful analytics dashboards comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        },
+        {
+            "slug": "protecting-your-team-from-phishing-and-social-engineering",
+            "title": "Protecting your team from phishing and social engineering",
+            "date": "2026-03-24",
+            "author": {
+                "name": "Jessica Rose",
+                "avatar": "assets/img/images/testi_avatar02.jpg",
+                "bio": "Technology writer and consultant sharing practical advice on building, securing and scaling digital products."
+            },
+            "category": "Cybersecurity",
+            "tags": [
+                "Security",
+                "Hiring"
+            ],
+            "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1200&q=80",
+            "excerpt": "A practical look at training teams to resist phishing: what to plan, what to avoid and how our team helps businesses get measurable results without unnecessary complexity.",
+            "content": [
+                "Every growing business eventually has to make decisions about training teams to resist phishing. The right approach saves time and money, while the wrong one creates technical debt that is expensive to undo.",
+                "Start with clear goals, involve the people who will use the solution, and measure progress in small steps. A structured plan removes guesswork and keeps stakeholders aligned from day one.",
+                "Our team has helped companies across industries turn these ideas into working solutions. Below are the key points we recommend every decision maker considers before getting started."
+            ],
+            "quote": {
+                "text": "Good technology is invisible: it removes friction, protects the business and quietly helps people do their best work.",
+                "cite": "Divaine Tech Team"
+            },
+            "highlights": {
+                "title": "What to focus on first",
+                "text": "Keep the first phase small, measurable and easy to explain. Early wins build trust and momentum.",
+                "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+                "items": [
+                    "Define goals and success metrics",
+                    "Start with a small pilot",
+                    "Automate repeatable work",
+                    "Review results and improve"
+                ]
+            },
+            "closing_title": "Putting it into practice",
+            "closing": "Success with training teams to resist phishing comes from steady, well-planned steps rather than big-bang changes. Talk to our team and we will help you create a roadmap that fits your business, budget and timeline."
+        }
+    ]
+}

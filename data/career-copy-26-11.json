@@ -1,0 +1,221 @@
+{
+    "settings": {
+        "breadcrumb_image": "assets/img/bg/breadcrumb_bg.jpg",
+        "sidebar_image": "assets/img/bg/sidebar_bg.jpg",
+        "contact_url": "contact.php",
+        "phone": "+971 552783479",
+        "phone_href": "+971552783479",
+        "apply_label": "Apply Now"
+    },
+    "page": {
+        "title": "Divaine Tech Careers",
+        "breadcrumb": "Career"
+    },
+    "intro": {
+        "slides": [
+            "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1400&q=80",
+            "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=80",
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1400&q=80",
+            "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1400&q=80"
+        ],
+        "sub_title": "Divaine Tech Careers",
+        "heading": [
+            "Divaine Tech is an IT company that helps businesses grow",
+            "with smart technology."
+        ],
+        "text": "At Divaine Tech we design, build and support technology that helps businesses work smarter. Our teams collaborate across web, mobile, cloud, data and AI projects, and every member has room to learn, lead and make a visible impact. If you enjoy solving real problems alongside talented, supportive colleagues, we would like to hear from you."
+    },
+    "benefits": {
+        "sub_title": "Company Benefits",
+        "title": "We Provide Awesome Benefits For Employees",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=80",
+        "text": "We believe great work comes from people who feel valued. That is why we invest in a healthy workplace, continuous learning and benefits that support you both at work and beyond it.",
+        "items": [
+            "Excellent Culture & Environment",
+            "Gym Facilities",
+            "Relax & Sports Zone",
+            "Free Shuttle Service",
+            "Dual Festival Bonuses",
+            "Loyalty Bonus",
+            "Annual Pleasure Tour",
+            "Learning & Certification Support",
+            "Meals, Coffee & Snacks",
+            "Leave Encashment"
+        ]
+    },
+    "jobs_section": {
+        "sub_title": "Job Circular",
+        "title": "Ready to Join Our Team",
+        "text": "Explore our current openings and find the role that matches your skills and ambitions. We review every application carefully and respond to shortlisted candidates promptly.",
+        "empty": "There are no open positions right now. Please check back soon."
+    },
+    "contact": {
+        "sub_title": "Get In Touch",
+        "title": "Let’s build an awesome project together",
+        "text": "Have a question about working with us, or a project in mind? Send us a message and our team will get back to you within one business day.",
+        "address": [
+            "Unit 29-30 11/F Beverley Commercial",
+            "Centre 87-105 Chatham Road South.",
+            "Tsim Sha Tsui",
+            "Hong Kong"
+        ],
+        "email": "hello@divainetech.io",
+        "form_title": "Fill The Contact Form",
+        "form_text": "We’d love to hear from you. Your details are kept private and are never shared."
+    },
+    "apply": {
+        "title": "Apply Form"
+    },
+    "countries": [
+        "United States",
+        "United Kingdom",
+        "India",
+        "Germany"
+    ],
+    "jobs": [
+        {
+            "slug": "digital-marketing-executive",
+            "title": "Digital Marketing Executive",
+            "type": "Full Time",
+            "location": "New York City",
+            "salary": "$10,000 - $12,000 / Month",
+            "hours": "09:00 am - 06:00 pm",
+            "summary": "Plan and run data-driven campaigns across SEO, paid media and social channels to grow our brand and generate quality leads.",
+            "overview": [
+                "As Digital Marketing Executive you will own the planning and execution of our online campaigns, helping Divaine Tech reach and convert the right audience. You will work closely with our design, content and sales teams to turn business goals into measurable marketing results.",
+                "This role suits an analytical, creative marketer who enjoys testing ideas, reading the numbers and continuously improving performance across search, social, email and paid channels."
+            ],
+            "responsibilities": {
+                "title": "Job Responsibilities",
+                "intro": "You will manage campaigns end to end, from strategy and creative briefs to reporting and optimization.",
+                "items": [
+                    "Plan, launch and optimize SEO, PPC and social media campaigns",
+                    "Track KPIs and report on traffic, leads and return on investment",
+                    "Coordinate with designers and writers to produce high-quality campaign content",
+                    "Manage email marketing, newsletters and lead nurturing workflows",
+                    "Research competitors, keywords and audience trends",
+                    "Maintain a consistent brand voice across all digital channels"
+                ]
+            },
+            "qualifications": {
+                "title": "Qualifications",
+                "intro": "We are looking for a motivated marketer with a solid grasp of digital channels and analytics.",
+                "items": [
+                    "Bachelor’s degree in marketing, business or a related field",
+                    "1–3 years of experience in digital marketing",
+                    "Hands-on knowledge of Google Analytics, Google Ads and social platforms",
+                    "Strong written communication and analytical skills",
+                    "Ability to manage multiple campaigns and meet deadlines"
+                ]
+            }
+        },
+        {
+            "slug": "sr-wordpress-developer",
+            "title": "Sr. WordPress Developer",
+            "type": "Full Time",
+            "location": "New York City",
+            "salary": "$10,000 - $12,000 / Month",
+            "hours": "09:00 am - 06:00 pm",
+            "summary": "Lead the design and development of fast, secure and scalable WordPress websites, custom themes and plugins for our clients.",
+            "overview": [
+                "As Senior WordPress Developer you will take ownership of client websites from architecture through launch, building custom themes and plugins that are fast, secure and easy for clients to manage.",
+                "You will mentor junior developers, review code and help us raise the standard of every WordPress project we deliver."
+            ],
+            "responsibilities": {
+                "title": "Job Responsibilities",
+                "intro": "You will lead technical delivery on WordPress projects and guide the team on best practices.",
+                "items": [
+                    "Develop custom WordPress themes and plugins from approved designs",
+                    "Optimize websites for speed, security and SEO",
+                    "Integrate third-party APIs, payment gateways and CRM tools",
+                    "Review code and mentor junior developers",
+                    "Maintain, update and troubleshoot live client websites",
+                    "Estimate tasks and collaborate with project managers and designers"
+                ]
+            },
+            "qualifications": {
+                "title": "Qualifications",
+                "intro": "We are looking for an experienced developer with a strong portfolio of WordPress projects.",
+                "items": [
+                    "4+ years of professional WordPress development experience",
+                    "Strong skills in PHP, MySQL, JavaScript, HTML and CSS",
+                    "Experience with custom post types, REST API and WooCommerce",
+                    "Familiarity with Git and performance optimization techniques",
+                    "Excellent problem-solving and teamwork skills"
+                ]
+            }
+        },
+        {
+            "slug": "product-designer",
+            "title": "Product Designer",
+            "type": "Full Time",
+            "location": "New York City",
+            "salary": "$10,000 - $12,000 / Month",
+            "hours": "09:00 am - 06:00 pm",
+            "summary": "Shape intuitive, beautiful digital products by turning user research and business goals into polished interfaces and design systems.",
+            "overview": [
+                "As Product Designer you will design web and mobile experiences that are easy to use and visually refined. You will take ideas from research and wireframes through to final UI, working side by side with developers and product managers.",
+                "We value designers who combine strong visual craft with a clear understanding of users and business goals."
+            ],
+            "responsibilities": {
+                "title": "Job Responsibilities",
+                "intro": "You will own the design process from discovery to hand-off and help evolve our design system.",
+                "items": [
+                    "Conduct user research and translate findings into design decisions",
+                    "Create wireframes, prototypes and high-fidelity UI designs",
+                    "Build and maintain a consistent design system and component library",
+                    "Collaborate with developers to ensure accurate implementation",
+                    "Run usability tests and iterate based on feedback",
+                    "Present design concepts and rationale to clients and stakeholders"
+                ]
+            },
+            "qualifications": {
+                "title": "Qualifications",
+                "intro": "We are looking for a creative, detail-oriented designer with a strong portfolio.",
+                "items": [
+                    "Strong portfolio showcasing UI/UX and product design work",
+                    "Proficiency in Figma and other modern design tools",
+                    "Solid understanding of user-centred design and accessibility",
+                    "Creative mindset with the ability to solve problems simply",
+                    "Excellent communication and teamwork skills"
+                ]
+            }
+        },
+        {
+            "slug": "jr-content-writer",
+            "title": "Jr. Content Writer",
+            "type": "Full Time",
+            "location": "New York City",
+            "salary": "$10,000 - $12,000 / Month",
+            "hours": "09:00 am - 06:00 pm",
+            "summary": "Write clear, engaging content for our website, blog and social channels while learning from experienced marketing and technology teams.",
+            "overview": [
+                "As Junior Content Writer you will create articles, web copy and social posts that explain technology in a clear and engaging way. This is a great opportunity to build your career in a supportive team that values learning.",
+                "You will work with our marketing and design teams to research topics, draft content and improve it based on feedback and performance data."
+            ],
+            "responsibilities": {
+                "title": "Job Responsibilities",
+                "intro": "You will produce well-researched content that supports our brand and helps clients understand our services.",
+                "items": [
+                    "Write blog posts, case studies and website copy",
+                    "Research industry topics and gather accurate information",
+                    "Proofread and edit content for clarity, grammar and tone",
+                    "Optimize content with basic SEO best practices",
+                    "Support social media and email content creation",
+                    "Collaborate with designers to align copy and visuals"
+                ]
+            },
+            "qualifications": {
+                "title": "Qualifications",
+                "intro": "We welcome motivated writers who are eager to learn and grow.",
+                "items": [
+                    "Bachelor’s degree in English, journalism, marketing or a related field",
+                    "0–2 years of content writing experience, internships included",
+                    "Excellent command of written English and attention to detail",
+                    "Interest in technology and willingness to research new topics",
+                    "Ability to take feedback and meet deadlines"
+                ]
+            }
+        }
+    ]
+}

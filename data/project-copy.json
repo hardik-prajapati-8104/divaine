@@ -1,0 +1,410 @@
+{
+    "settings": {
+        "phone": "+971 552783479",
+        "phone_href": "+971552783479",
+        "contact_url": "contact.php",
+        "breadcrumb_image": "assets/img/bg/breadcrumb_bg.jpg",
+        "sidebar_image": "assets/img/bg/sidebar_bg.jpg",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/"
+            },
+            {
+                "name": "x",
+                "url": "https://x.com/"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/"
+            },
+            {
+                "name": "pinterest",
+                "url": "https://www.pinterest.com/"
+            }
+        ]
+    },
+    "listing": {
+        "title": "Our Project",
+        "sub_title": "Our Company Projects",
+        "heading": "Explore our recent projects That We Have Done"
+    },
+    "details": {
+        "overview_title": "Overview:",
+        "sidebar_title": "Project Overview",
+        "related_title": "More Projects",
+        "prev": "Previous Project",
+        "next": "Next Project"
+    },
+    "projects": [
+        {
+            "slug": "futuristic-thinking",
+            "title": "Futuristic Thinking",
+            "category": "Technology",
+            "thumb": "assets/img/project/project_img07.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "Futuristic Thinking was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a technology solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver futuristic thinking without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 90,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 80,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Rchard Hiamea",
+                "Date": "17 March, 2025",
+                "Category": "Modern",
+                "Author": "Mark Willy",
+                "Place": "Paris"
+            }
+        },
+        {
+            "slug": "cyber-solutions",
+            "title": "Cyber Solutions",
+            "category": "Cyber Security",
+            "thumb": "assets/img/project/project_img08.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "Cyber Solutions was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a cyber security solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver cyber solutions without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 88,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 83,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Daniel Carter",
+                "Date": "02 May, 2025",
+                "Category": "Security",
+                "Author": "Sarah Khan",
+                "Place": "Dubai"
+            }
+        },
+        {
+            "slug": "ai-development",
+            "title": "AI Development",
+            "category": "AI & Automation",
+            "thumb": "assets/img/project/project_img09.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "AI Development was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a ai & automation solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver ai development without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 86,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 86,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Olivia Martin",
+                "Date": "21 June, 2025",
+                "Category": "Artificial Intelligence",
+                "Author": "Mark Willy",
+                "Place": "London"
+            }
+        },
+        {
+            "slug": "initiation-planning",
+            "title": "Initiation & Planning",
+            "category": "IT Consulting",
+            "thumb": "assets/img/project/project_img10.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "Initiation & Planning was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a it consulting solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver initiation & planning without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 90,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 89,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "James Wilson",
+                "Date": "09 August, 2025",
+                "Category": "Consulting",
+                "Author": "Ayesha Noor",
+                "Place": "Abu Dhabi"
+            }
+        },
+        {
+            "slug": "testing-maintenance",
+            "title": "Testing & Maintenance",
+            "category": "Quality Assurance",
+            "thumb": "assets/img/project/project_img03.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "Testing & Maintenance was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a quality assurance solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver testing & maintenance without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 88,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 80,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Emma Brown",
+                "Date": "14 September, 2025",
+                "Category": "Maintenance",
+                "Author": "Sarah Khan",
+                "Place": "Berlin"
+            }
+        },
+        {
+            "slug": "cloud-migration-platform",
+            "title": "Cloud Migration Platform",
+            "category": "Cloud & DevOps",
+            "thumb": "assets/img/project/project_img04.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "Cloud Migration Platform was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a cloud & devops solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver cloud migration platform without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 86,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 83,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Noah Davis",
+                "Date": "30 October, 2025",
+                "Category": "Cloud",
+                "Author": "Mark Willy",
+                "Place": "Singapore"
+            }
+        },
+        {
+            "slug": "smart-analytics-dashboard",
+            "title": "Smart Analytics Dashboard",
+            "category": "Data & Analytics",
+            "thumb": "assets/img/project/project_img05.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "Smart Analytics Dashboard was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a data & analytics solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver smart analytics dashboard without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 90,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 86,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Sophia Lee",
+                "Date": "12 November, 2025",
+                "Category": "Analytics",
+                "Author": "Ayesha Noor",
+                "Place": "New York"
+            }
+        },
+        {
+            "slug": "mobile-banking-app",
+            "title": "Mobile Banking App",
+            "category": "Mobile Apps",
+            "thumb": "assets/img/project/project_img06.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "Mobile Banking App was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a mobile apps solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver mobile banking app without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 88,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 89,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Liam Johnson",
+                "Date": "05 December, 2025",
+                "Category": "Mobile",
+                "Author": "Sarah Khan",
+                "Place": "Toronto"
+            }
+        },
+        {
+            "slug": "enterprise-erp-system",
+            "title": "Enterprise ERP System",
+            "category": "Custom Software",
+            "thumb": "assets/img/project/project_img01.jpg",
+            "image": "assets/img/project/project_details.jpg",
+            "overview": [
+                "Enterprise ERP System was delivered for a client who needed a reliable, modern solution that fits their business. Our team worked closely with their stakeholders to understand goals, constraints and users before writing a single line of code.",
+                "Through a structured process of discovery, design, development and testing, we built a custom software solution that is stable, easy to use and ready to scale with the business."
+            ],
+            "challenge_title": "The challenge of project:",
+            "challenge": "The client faced fragmented systems, manual processes and limited visibility. The main challenge was to deliver enterprise erp system without disrupting daily operations while keeping security and performance at the highest standard.",
+            "features": [
+                "Clear scope and measurable goals from day one",
+                "Scalable architecture built for future growth",
+                "Secure, performance-focused implementation",
+                "Seamless integration with existing systems",
+                "Dedicated support and continuous improvement"
+            ],
+            "inner_image": "assets/img/project/project_img10.jpg",
+            "result_title": "Final Result:",
+            "result": "The finished solution went live on schedule and exceeded expectations, giving the client faster workflows, better insight and a platform that is simple to maintain and extend.",
+            "bottom_image": "assets/img/slider/h2_slider_bg01.jpg",
+            "counters": [
+                {
+                    "value": 86,
+                    "label": "Project Handover"
+                },
+                {
+                    "value": 80,
+                    "label": "Business Success"
+                }
+            ],
+            "info": {
+                "Client": "Mia Anderson",
+                "Date": "18 January, 2026",
+                "Category": "Enterprise",
+                "Author": "Mark Willy",
+                "Place": "Sydney"
+            }
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+<?php
+	include_once ('elements/header.php')
+?>
+        <!-- breadcrumb-area -->
+        <section class="breadcrumb__area breadcrumb__bg fix" data-background="assets/img/bg/breadcrumb_bg.jpg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="breadcrumb__content">
+                            <h2 class="title">Contact With Us</h2>
+                            <nav class="breadcrumb">
+                                <span property="itemListElement" typeof="ListItem">
+                                    <a href="index.php">Home</a>
+                                </span>
+                                <span class="breadcrumb-separator">/</span>
+                                <span property="itemListElement" typeof="ListItem">Contact</span>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- breadcrumb-area-end -->
+
+        <!-- contact-area -->
+        <section class="contact__area-four section-py-140">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-5">
+                        <div class="team__details-content contact__content-three">
+                            <h2 class="name">Get In Touch</h2>
+                            <span class="sub-title">Let's Build Something Great Together</span>
+                            <p>Have a project in mind or looking for the right technology partner? We're here to help. Whether you need a professional website, custom software, mobile application, or innovative digital solutions, our team is ready to turn your ideas into reality.</p>
+                            <!-- <div class="contact__info-list contact__info-list-three">
+                                <div class="contact__info-item contact__info-item-three">
+                                    <div class="icon">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M25 12.5761C25 21.0609 14.1667 28.3337 14.1667 28.3337C14.1667 28.3337 3.33334 21.0609 3.33334 12.5761C3.33334 9.68281 4.47471 6.90804 6.50635 4.86219C8.538 2.81634 11.2935 1.66699 14.1667 1.66699C17.0399 1.66699 19.7954 2.81634 21.827 4.86219C23.8586 6.90804 25 9.68281 25 12.5761Z" stroke="currentColor" stroke-width="2.16667" stroke-linecap="round" stroke-linejoin="round" />
+                                            <path d="M14.1667 16.2124C16.161 16.2124 17.7778 14.5844 17.7778 12.5761C17.7778 10.5678 16.161 8.93972 14.1667 8.93972C12.1723 8.93972 10.5556 10.5678 10.5556 12.5761C10.5556 14.5844 12.1723 16.2124 14.1667 16.2124Z" stroke="currentColor" stroke-width="2.16667" stroke-linecap="round" stroke-linejoin="round" />
+                                        </svg>
+                                    </div>
+                                    <div class="content">
+                                        <span>Location</span>
+                                        <h2 class="title">Unit 29-30 11/F Beverley Commercial
+                                               <br> Centre 87-105 Chatham Road South 
+                                                <br> Tsim Sha Tsui,
+                                                <br> Hong Kong</h2>
+                                    </div>
+                                </div>
+                                <div class="contact__info-item contact__info-item-three">
+                                    <div class="icon">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M28.3333 7.5C28.3333 6.125 27.1333 5 25.6667 5H4.33332C2.86666 5 1.66666 6.125 1.66666 7.5M28.3333 7.5V22.5C28.3333 23.875 27.1333 25 25.6667 25H4.33332C2.86666 25 1.66666 23.875 1.66666 22.5V7.5M28.3333 7.5L15 16.2501L1.66666 7.5" stroke="currentColor" stroke-width="1.83333" stroke-linecap="round" stroke-linejoin="round" />
+                                        </svg>
+                                    </div>
+                                    <div class="content">
+                                        <span>Email Address</span>
+                                        <h2 class="title"><a href="mailto:hello@divainetech.io">hello@divainetech.io</a></h2>
+                                    </div>
+                                </div>
+                                <div class="contact__info-item contact__info-item-three">
+                                    <div class="icon">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M26.6197 20.8025V24.3151C26.6211 24.6412 26.5543 24.964 26.4236 25.2627C26.293 25.5615 26.1014 25.8297 25.8611 26.0502C25.6208 26.2706 25.3371 26.4384 25.0282 26.5429C24.7193 26.6474 24.392 26.6862 24.0672 26.6568C20.4643 26.2653 17.0034 25.0342 13.9626 23.0623C11.1336 21.2646 8.73509 18.8661 6.93742 16.0371C4.95862 12.9825 3.72718 9.50477 3.34285 5.88562C3.31359 5.56183 3.35207 5.2355 3.45584 4.92741C3.55961 4.61931 3.72639 4.33619 3.94557 4.09608C4.16475 3.85598 4.43153 3.66414 4.72891 3.53278C5.0263 3.40142 5.34777 3.33343 5.67288 3.33312H9.18548C9.75372 3.32753 10.3046 3.52875 10.7354 3.89927C11.1663 4.2698 11.4477 4.78435 11.5272 5.34702C11.6755 6.47113 11.9504 7.57486 12.3468 8.63716C12.5044 9.05624 12.5385 9.5117 12.4451 9.94956C12.3517 10.3874 12.1347 10.7893 11.8199 11.1077L10.3329 12.5947C11.9997 15.526 14.4268 17.9531 17.3582 19.6199L18.8452 18.1329C19.1635 17.8181 19.5654 17.6012 20.0033 17.5078C20.4411 17.4144 20.8966 17.4485 21.3157 17.606C22.378 18.0024 23.4817 18.2774 24.6058 18.4256C25.1746 18.5059 25.694 18.7923 26.0654 19.2306C26.4367 19.6688 26.634 20.2283 26.6197 20.8025Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                        </svg>
+                                    </div>
+                                    <div class="content">
+                                        <span>Phone Number</span>
+                                        <h2 class="title"><a href="tel: +971 552783479">+971 552783479</a></h2>
+                                    </div>
+                                </div>
+                            </div> -->
+                       <?php include 'elements/contact-info.php'; ?>
+                        </div>
+                    </div>
+                    <div class="col-lg-7">
+                        <!-- contact-map -->
+                        <div class="contact-map">
+                            <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.3802847915804!2d114.17321962615162!3d22.301453192852478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401001043262d%3A0x1c5b9aca0f6efd32!2sUnit%201307%2C%20Beverley%20Commercial%20Centre%2C%2087-105%20Chatham%20Road%20South%2C%20Tsim%20Sha%20Tsui%2C%20KLN%2CHongkong!5e0!3m2!1sen!2sin!4v1795594364513!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe> -->
+                                <?php include 'elements/contact-map.php'; ?>
+                        </div>
+                        <!-- contact-map-end -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- contact-area-end -->
+
+        <!-- contact-form-area -->
+        <section class="job__form-area section-bg section-py-140">
+            <div class="container">
+                <div class="contact__form-wrap contact__form-wrap-four">
+                    <h3 class="title">Quick Contact Form</h3>
+                    <p>Feel Free to Our Contact & Hire us for Your Solution !!</p>
+                    <form id="contact-form" class="contact__form-two" action="contact-submit.php" method="post" novalidate>
+                        <div class="contact-form-honeypot" aria-hidden="true">
+                            <label for="contact_company">Leave this field empty</label>
+                            <input type="text" id="contact_company" name="company" tabindex="-1" autocomplete="off">
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-grp">
+                                    <input type="text" name="name" placeholder="Your Name*" autocomplete="name" maxlength="100" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-grp">
+                                    <input type="email" name="email" placeholder="Email*" autocomplete="email" maxlength="254" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-grp select-grp">
+                                    <select name="service" class="orderby" required>
+                                        <option value="" selected disabled>Select Service *</option>
+                                        <option value="web">Web Development</option>
+                                        <option value="mobile">Mobile App Development</option>
+                                        <option value="ui/ux">UI/UX Design</option>
+                                        <option value="digital">Digital Marketing</option>
+
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-grp">
+                                    <input type="text" name="website" placeholder="Website*" autocomplete="url" maxlength="255" required>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-grp">
+                            <textarea name="message" placeholder="Write your message" rows="5" maxlength="5000" required></textarea>
+                        </div>
+                        <button type="submit" class="tg-btn">Send Us Message</button>
+                    </form>
+                    <p class="ajax-response mb-0" role="status" aria-live="polite"></p>
+                </div>
+            </div>
+        </section>
+        <!-- contact-form-area-end -->
+
+
+<style>
+.contact-form-honeypot{position:absolute!important;left:-10000px!important;width:1px!important;height:1px!important;overflow:hidden!important;}
+#contact-form button[disabled]{opacity:.7;cursor:wait;}
+#contact-form .ajax-response{margin-top:14px;}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const form = document.getElementById('contact-form');
+    if (!form) return;
+
+    const submitButton = form.querySelector('button[type="submit"]');
+    const originalButtonText = submitButton ? submitButton.textContent.trim() : 'Send Us Message';
+
+    form.addEventListener('submit', async function (event) {
+        event.preventDefault();
+
+        if (!form.reportValidity()) return;
+
+        if (submitButton) {
+            submitButton.disabled = true;
+            submitButton.textContent = 'Sending...';
+        }
+
+        try {
+            const response = await fetch(form.action, {
+                method: 'POST',
+                body: new FormData(form),
+                headers: { 'X-Requested-With': 'XMLHttpRequest', 'Accept': 'application/json' }
+            });
+
+            let result;
+            try {
+                result = await response.json();
+            } catch (parseError) {
+                throw new Error('The server returned an unexpected response. Please try again.');
+            }
+
+            if (!response.ok || !result.success) {
+                throw new Error(result.message || 'Your message could not be sent. Please try again.');
+            }
+
+            form.reset();
+            if (window.Swal) {
+                await Swal.fire({
+                    icon: 'success',
+                    title: 'Message Sent!',
+                    text: result.message,
+                    confirmButtonText: 'Great',
+                    confirmButtonColor: '#ff6600'
+                });
+            } else {
+                alert(result.message);
+            }
+        } catch (error) {
+            const errorMessage = error.message || 'Something went wrong. Please try again later.';
+            if (window.Swal) {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Unable to Send',
+                    text: errorMessage,
+                    confirmButtonText: 'Okay',
+                    confirmButtonColor: '#ff6600'
+                });
+            } else {
+                alert(errorMessage);
+            }
+        } finally {
+            if (submitButton) {
+                submitButton.disabled = false;
+                submitButton.textContent = originalButtonText;
+            }
+        }
+    });
+});
+</script>
+
+<?php
+	include_once ('elements/footer.php');
+?>
