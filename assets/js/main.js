@@ -90,13 +90,14 @@ $(window).on('scroll', function () {
 	=           Scroll Up  	         =
 =============================================*/
 if ($('.scroll-to-target').length) {
-  $(".scroll-to-target").on('click', function () {
-    var target = $(this).attr('data-target');
-    // animate
-    $('html, body').animate({
-      scrollTop: $(target).offset().top
-    }, 0);
-
+  $(".scroll-to-target").on('click', function (e) {
+    e.preventDefault();
+    // Scroll to the element named in data-target; fall back to the top of the page.
+    var $target = $($(this).attr('data-target'));
+    var top = $target.length ? $target.offset().top : 0;
+    $('html, body').stop().animate({
+      scrollTop: top
+    }, 500);
   });
 }
 

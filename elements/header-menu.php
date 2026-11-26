@@ -13,6 +13,14 @@
     </button>
     <!-- Scroll-top-end-->
 
+    <!-- Scroll-top -->
+    <button class="scroll__top scroll-to-target" data-target="html">
+        <svg width="22" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M11 19.3848V0.999995M11 0.999995L1.80762 10.1924M11 0.999995L20.1924 10.1924" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+    </button>
+    <!-- Scroll-top-end-->
+
     <!-- header-area -->
     <header class="transparent-header">
         <div class="tg-header__top">
