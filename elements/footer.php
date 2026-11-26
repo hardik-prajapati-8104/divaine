@@ -50,7 +50,7 @@
                             <h2 class="footer__widget-title">Support</h2>
                             <ul class="list-wrap footer__link">
                                 <li><a href="contact.php">Help & Support</a></li>
-                                <li><a href="blog.php">Frequently Asked Questions</a></li> 
+                                <li><a href="faq.php">Frequently Asked Questions</a></li> 
                                 <li><a href="privacy-policy.php">Privacy Policy</a></li>
                                 <li><a href="careers.php">Careers</a></li>
                                 <li><a href="terms-conditions.php">Term & Condition</a></li>
